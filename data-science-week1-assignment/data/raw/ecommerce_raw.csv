@@ -1,0 +1,1016 @@
+Order ID,Customer ID,Product Name,Category,Quantity,Unit Price,Total Amount,Order Date,Payment Mode,Delivery Status,City
+ORD01753,CUST0284,Monitor 24-inch,Electronics,4.0,2819.51,11278.04,2024-07-04,Debit Card,Delivered,Delhi
+ORD01520,CUST0219,Power Bank 20000mAh,Electronics,1.0,4033.93,4033.93,2024-10-02,Credit Card,Delivered,Chennai
+ORD01211,CUST0221,Face Moisturizer,Beauty,1.0,778.45,778.45,2024-07-15,Debit Card,Delivered,Jaipur
+ORD01612,CUST0115,Water Purifier,Home & Kitchen,3.0,3015.46,9046.38,2024-01-28,UPI,Delivered,Hyderabad
+ORD01915,CUST0048,Mechanical Keyboard,Electronics,3.0,4761.43,14284.29,2024-11-07,Net Banking,Returned,Lucknow
+ORD01535,CUST0147,Bluetooth Headphones,Electronics,2.0,6218.36,12436.72,2024-05-16,UPI,Delivered,Lucknow
+ORD01842,CUST0225,Leadership Mindset,Books,1.0,236.33,236.33,2024-11-21,UPI,Shipped,Kolkata
+ORD01200,CUST0277,Formal Shirt,Clothing,1.0,1247.27,1247.27,2024-09-04,Debit Card,Delivered,Pune
+ORD01216,CUST0028,Formal Shirt,Clothing,1.0,2183.06,2183.06,2024-03-01,Credit Card,Shipped,Chennai
+ORD01589,CUST0043,Sunscreen SPF50,Beauty,1.0,531.25,531.25,2024-11-02,UPI,Delivered,
+ORD01595,CUST0134,Yoga Mat,Sports,3.0,2611.49,7834.47,2024-04-30,UPI,Delivered,Ahmedabad
+ORD01430,CUST0198,Machine Learning Guide,Books,2.0,266.17,532.34,2024-09-04,Cash on Delivery,Delivered,Hyderabad
+ORD01548,CUST0033,Air Fryer,Home & Kitchen,1.0,2079.79,2079.79,2024-03-28,UPI,Shipped,Pune
+ORD01598,CUST0109,Power Bank 20000mAh,Electronics,5.0,5434.45,27172.25,2024-03-10,Credit Card,Pending,Delhi
+ORD01741,CUST0100,Laptop Stand,Electronics,1.0,3232.06,3232.06,2024-03-18,Net Banking,Delivered,Hyderabad
+ORD01406,CUST0205,Cotton Socks,Clothing,1.0,1703.99,1703.99,2024-07-19,Net Banking,Delivered,Chennai
+ORD01986,CUST0136,Laptop Stand,Electronics,5.0,6853.39,34266.95,2024-06-12,UPI,Returned,Pune
+ORD01356,CUST0219,Sports Shorts,Clothing,1.0,1466.14,1466.14,2024-04-30,Debit Card,Pending,Delhi
+ORD01667,CUST0276,Dumbbells 5kg,Sports,2.0,1710.97,3421.94,2024-10-24,UPI,Pending,Chennai
+ORD01824,CUST0077,Formal Shirt,Clothing,1.0,218.18,218.18,2024-09-27,Cash on Delivery,Shipped,Lucknow
+ORD01754,CUST0150,Men's T-Shirt,Clothing,1.0,2292.51,2292.51,2024-05-10,Credit Card,Pending,Hyderabad
+ORD01140,CUST0079,Finance Basics,Books,3.0,686.64,2059.92,2024-12-14,Net Banking,Delivered,Lucknow
+ORD01257,CUST0285,Hair Serum,Beauty,1.0,1081.19,1081.19,2024-02-13,Credit Card,Delivered,Lucknow
+ORD01638,CUST0193,Wireless Mouse,Electronics,2.0,1356.35,2712.7,2024-11-11,Credit Card,Delivered,Chennai
+ORD01929,CUST0234,Towel Set,Home & Kitchen,2.0,425.57,851.14,2024-12-11,Debit Card,Shipped,Kolkata
+ORD01808,CUST0231,Machine Learning Guide,Books,2.0,691.5,1383.0,2024-07-03,UPI,Pending,Kolkata
+ORD01250,CUST0195,Monitor 24-inch,Electronics,1.0,2183.86,2183.86,2024-06-12,Net Banking,Delivered,Hyderabad
+ORD01214,CUST0211,Coffee Maker,Home & Kitchen,1.0,2991.76,2991.76,2024-10-05,Debit Card,Pending,Pune
+ORD01313,CUST0136,Bluetooth Headphones,Electronics,2.0,2371.18,4742.36,2024-07-03,Credit Card,Pending,Chennai
+ORD01482,CUST0121,Python Programming,Books,2.0,279.47,558.94,2024-02-18,UPI,Delivered,Jaipur
+ORD01950,CUST0248,Cotton Socks,Clothing,1.0,1648.5,1648.5,2024-09-08,Cash on Delivery,Delivered,Delhi
+ORD01137,CUST0153,Wireless Mouse,Electronics,1.0,3990.46,3990.46,2024-12-17,Cash on Delivery,Cancelled,Jaipur
+ORD01060,CUST0233,Monitor 24-inch,Electronics,1.0,5326.2,5326.2,2024-03-06,Credit Card,Shipped,Jaipur
+ORD01360,CUST0039,Leadership Mindset,Books,2.0,457.54,915.08,2024-08-19,Credit Card,Shipped,Delhi
+ORD01281,CUST0121,Dinner Set,Home & Kitchen,1.0,,1718.3,2024-03-21,UPI,Returned,Ahmedabad
+ORD01600,CUST0168,Formal Shirt,Clothing,1.0,719.2,719.2,2024-01-04,Debit Card,Shipped,Lucknow
+ORD01962,CUST0120,Denim Jeans,Clothing,3.0,228.38,685.14,2024-11-25,Debit Card,Delivered,Ahmedabad
+ORD01310,CUST0276,Cotton Socks,Clothing,1.0,1980.27,1980.27,2024-08-01,UPI,Delivered,Lucknow
+ORD01175,CUST0225,Women's Kurta,Clothing,4.0,2258.02,9032.08,2024-04-27,Cash on Delivery,Shipped,Chennai
+ORD01433,CUST0131,Monitor 24-inch,Electronics,1.0,7734.28,7734.28,2024-02-16,Debit Card,Shipped,Bengaluru
+ORD01637,CUST0295,Bluetooth Headphones,Electronics,3.0,7284.97,21854.91,2024-02-19,UPI,Pending,Kolkata
+ORD01892,CUST0028,Mechanical Keyboard,Electronics,1.0,829.29,829.29,2024-04-11,Credit Card,Cancelled,Hyderabad
+ORD01429,CUST0060,Running Shoes,Clothing,2.0,1498.74,2997.48,2024-12-14,UPI,Delivered,Ahmedabad
+ORD01594,CUST0026,Denim Jeans,Clothing,1.0,2160.76,2160.76,2024-10-08,Credit Card,Delivered,Mumbai
+ORD01291,CUST0290,Yoga Mat,Sports,5.0,1146.26,5731.3,2024-09-04,Debit Card,Shipped,Mumbai
+ORD01071,CUST0084,Cotton Socks,Clothing,1.0,1800.97,1800.97,2024-12-27,Debit Card,Delivered,Kolkata
+ORD01995,CUST0278,Face Moisturizer,Beauty,2.0,1289.73,2579.46,2024-08-22,UPI,Delivered,Bengaluru
+ORD01097,CUST0276,Denim Jeans,Clothing,1.0,,1965.9,2024-09-14,Net Banking,Delivered,Mumbai
+ORD01011,CUST0017,Data Science Handbook,Books,3.0,280.52,841.56,2024-07-06,Debit Card,Delivered,Jaipur
+ORD01297,CUST0123,Denim Jeans,Clothing,1.0,1225.28,1225.28,2024-08-26,Credit Card,Delivered,Hyderabad
+ORD01854,CUST0296,Cotton Socks,Clothing,2.0,266.48,532.96,2024-01-10,UPI,Delivered,Hyderabad
+ORD01581,CUST0085,Leadership Mindset,Books,3.0,235.67,707.01,2024-12-23,Credit Card,Delivered,Kolkata
+ORD01287,CUST0021,Webcam HD,Electronics,2.0,6402.65,12805.3,2024-01-25,Debit Card,Delivered,Ahmedabad
+ORD01102,CUST0205,,Clothing,2.0,,2690.98,2024-05-28,Debit Card,Pending,Hyderabad
+ORD01498,CUST0205,Non-stick Pan,Home & Kitchen,3.0,3751.21,11253.63,2024-02-09,Cash on Delivery,Delivered,Chennai
+ORD01733,CUST0095,Leadership Mindset,Books,1.0,164.45,164.45,2024-10-19,Debit Card,Delivered,Ahmedabad
+ORD01469,CUST0165,Data Science Handbook,Books,2.0,534.04,1068.08,2024-11-21,Debit Card,Shipped,Lucknow
+ORD01706,CUST0009,Power Bank 20000mAh,Electronics,1.0,6180.01,6180.01,2024-02-25,UPI,Delivered,Mumbai
+ORD01031,CUST0111,Cotton Socks,Clothing,2.0,1117.08,2234.16,2024-06-09,Debit Card,Delivered,Ahmedabad
+ORD01366,CUST0283,Air Fryer,Home & Kitchen,1.0,3551.54,3551.54,2024-03-06,Debit Card,Shipped,Delhi
+ORD01885,CUST0060,Skipping Rope,Sports,3.0,1071.33,3213.99,2024-03-15,Debit Card,Shipped,Bengaluru
+ORD01077,CUST0167,Wireless Mouse,Electronics,-1.0,3086.02,6172.04,2024-11-17,UPI,Shipped,Delhi
+ORD01395,CUST0020,Finance Basics,Books,4.0,571.16,2284.64,2024-01-06,Net Banking,Delivered,Jaipur
+ORD01055,CUST0041,Bluetooth Headphones,Electronics,3.0,3878.92,11636.76,2024-06-24,Debit Card,Delivered,Delhi
+ORD01024,CUST0143,Face Moisturizer,Beauty,1.0,,1025.48,2024-01-08,UPI,Delivered,Pune
+ORD01896,CUST0256,USB-C Hub,Electronics,1.0,6461.74,6461.74,2024-07-12,Debit Card,Delivered,Pune
+ORD01445,CUST0064,Denim Jeans,Clothing,1.0,,1296.08,2024-10-20,Credit Card,Shipped,Hyderabad
+ORD01255,CUST0147,Lip Balm Set,Beauty,2.0,102.05,204.1,2024-06-06,,Returned,Delhi
+ORD01431,CUST0296,Machine Learning Guide,Books,3.0,628.26,1884.78,2024-12-03,UPI,Delivered,Delhi
+ORD01566,CUST0153,Yoga Mat,Sports,1.0,2538.3,2538.3,2024-12-13,UPI,Delivered,Pune
+ORD01549,CUST0213,USB-C Hub,Electronics,2.0,1841.5,3683.0,31-02-2024,Debit Card,Pending,Hyderabad
+ORD01658,CUST0055,Air Fryer,Home & Kitchen,4.0,4594.65,18378.6,2024-08-01,Credit Card,Delivered,Mumbai
+ORD01159,CUST0036,Data Science Handbook,Books,1.0,183.5,183.5,2024-11-05,Credit Card,Delivered,Lucknow
+ORD01875,CUST0254,Monitor 24-inch,Electronics,4.0,7683.32,30733.28,2024-04-10,Debit Card,Delivered,Bengaluru
+ORD01650,CUST0220,Coffee Maker,Home & Kitchen,2.0,4506.87,9013.74,2024-10-30,Debit Card,Delivered,Lucknow
+ORD01811,CUST0017,Winter Jacket,Clothing,1.0,1021.2,1021.2,2024-09-14,Net Banking,Delivered,Mumbai
+ORD01536,CUST0121,Bluetooth Headphones,Electronics,2.0,3194.46,6388.92,2024-09-01,Debit Card,,Bengaluru
+ORD01681,CUST0173,Skipping Rope,Sports,1.0,2012.28,2012.28,2024-05-28,UPI,Pending,Lucknow
+ORD01690,CUST0175,Python Programming,Books,2.0,154.3,308.6,2024-05-19,Credit Card,Delivered,Ahmedabad
+ORD01530,CUST0249,Winter Jacket,Clothing,1.0,2292.39,2292.39,2024-10-04,Credit Card,Delivered,Bengaluru
+ORD01519,CUST0259,Bluetooth Headphones,Electronics,2.0,2322.86,4645.72,2024-03-16,,Shipped,Hyderabad
+ORD01409,CUST0036,Air Fryer,Home & Kitchen,2.0,3758.82,7517.64,2024-07-02,Credit Card,Delivered,Mumbai
+ORD01040,CUST0023,Bluetooth Headphones,Electronics,1.0,5554.77,5554.77,2024-12-04,Debit Card,Delivered,Ahmedabad
+ORD01308,CUST0052,Sports Shorts,Clothing,2.0,313.37,626.74,2024-05-17,,Pending,Pune
+ORD01671,CUST0138,USB-C Hub,Electronics,4.0,2662.8,10651.2,2024-02-25,Credit Card,Shipped,Bengaluru
+ORD01920,CUST0079,Wireless Mouse,Electronics,1.0,1468.53,1468.53,2024-02-05,Cash on Delivery,Cancelled,
+ORD01480,CUST0172,Webcam HD,Electronics,1.0,6317.4,6317.4,2024-08-28,Credit Card,Pending,Bengaluru
+ORD01067,CUST0037,USB-C Hub,Electronics,1.0,7047.51,7047.51,2024-09-03,UPI,Delivered,Pune
+ORD01531,CUST0123,Water Purifier,Home & Kitchen,1.0,4354.16,4354.16,2024-12-27,Cash on Delivery,Delivered,Jaipur
+ORD01068,CUST0088,Face Moisturizer,Beauty,3.0,499.09,1497.27,2024-05-19,Cash on Delivery,Delivered,Kolkata
+ORD01716,CUST0284,Women's Kurta,Clothing,3.0,2257.94,6773.82,2024-12-13,Credit Card,Returned,Pune
+ORD01236,CUST0051,Yoga Mat,Sports,2.0,2574.1,5148.2,2024-06-03,Debit Card,Delivered,Chennai
+ORD01537,CUST0140,Business Analytics,Books,1.0,269.58,269.58,2024-08-30,Credit Card,Delivered,Bengaluru
+ORD01108,CUST0047,Cotton Socks,Clothing,1.0,2423.38,2423.38,2024-06-29,Credit Card,Delivered,Mumbai
+ORD01927,CUST0242,Women's Kurta,Clothing,2.0,1805.5,3611.0,2024-04-21,,Pending,Kolkata
+ORD01532,CUST0141,Dumbbells 5kg,Sports,,2037.45,4074.9,2024-03-21,,Delivered,Pune
+ORD01634,CUST0297,Face Moisturizer,Beauty,1.0,151.86,151.86,2024-01-22,Credit Card,Pending,Ahmedabad
+ORD01543,CUST0078,Winter Jacket,Clothing,,1261.1,1261.1,2024-11-09,UPI,Cancelled,Mumbai
+ORD01555,CUST0032,Denim Jeans,Clothing,2.0,2422.47,4844.94,2024-07-03,Credit Card,Delivered,Mumbai
+ORD01799,CUST0042,Bluetooth Headphones,Electronics,2.0,2069.22,4138.44,2024-11-28,Debit Card,Shipped,Chennai
+ORD01245,CUST0247,Power Bank 20000mAh,Electronics,2.0,7647.62,15295.24,2024-05-12,Debit Card,Shipped,Bengaluru
+ORD01661,CUST0236,Yoga Mat,Sports,1.0,,1543.39,2024-12-26,Net Banking,Shipped,Kolkata
+ORD01884,CUST0166,Air Fryer,Home & Kitchen,3.0,1442.82,4328.46,2024-01-31,Debit Card,Delivered,Bengaluru
+ORD01590,CUST0220,Lip Balm Set,Beauty,2.0,792.01,1584.02,2024-02-16,Net Banking,Cancelled,Chennai
+ORD01089,CUST0256,Women's Kurta,Clothing,2.0,1520.02,3040.04,2024-07-22,UPI,Delivered,Pune
+ORD01064,CUST0182,USB-C Hub,Electronics,1.0,5908.87,5908.87,2024-07-05,Cash on Delivery,Shipped,Chennai
+ORD01887,CUST0264,Non-stick Pan,Home & Kitchen,1.0,2283.69,2283.69,2024-04-12,UPI,Delivered,Chennai
+ORD01343,CUST0129,Denim Jeans,Clothing,2.0,290.63,581.26,2024-04-16,Debit Card,Delivered,Kolkata
+ORD01276,CUST0261,Business Analytics, Sports,1.0,744.09,744.09,2024-12-24,Cash on Delivery,Delivered,Pune
+ORD01707,CUST0048,Wireless Mouse,Electronics,1.0,7313.97,7313.97,2024-06-03,UPI,Pending,Mumbai
+ORD01858,CUST0266,Business Analytics,Books,,697.59,697.59,2024-09-18,Credit Card,Shipped,Hyderabad
+ORD01618,CUST0011,Men's T-Shirt,Clothing,3.0,1747.44,5242.32,2024-01-07,Credit Card,Delivered,Ahmedabad
+ORD01210,CUST0050,Resistance Bands,Sports,1.0,667.22,667.22,2024-04-05,Net Banking,Shipped,Pune
+ORD01110,CUST0057,Machine Learning Guide,Books,1.0,387.86,387.86,2024-10-18,Credit Card,Delivered,Jaipur
+ORD01278,CUST0096,Laptop Stand,Electronics,1.0,5012.47,5012.47,2024-09-01,Debit Card,Shipped,Mumbai
+ORD01185,CUST0118,Face Moisturizer,Beauty,1.0,508.59,508.59,2024-02-13,Cash on Delivery,Returned,
+ORD01906,CUST0063,Sports Shorts,Clothing,1.0,426.34,426.34,2024-01-20,Credit Card,Delivered,Jaipur
+ORD01483,CUST0159,Winter Jacket,Clothing,1.0,2353.3,2353.3,2024-01-22,Debit Card,Delivered,Jaipur
+ORD01307,CUST0289,,Electronics,2.0,1578.9,3157.8,2024-12-21,Credit Card,Cancelled,Ahmedabad
+ORD01689,CUST0133,Laptop Stand,Electronics,5.0,2774.23,13871.15,2024-09-25,Credit Card,Returned,Pune
+ORD01975,CUST0052,Water Purifier,Home & Kitchen,2.0,2031.62,4063.24,2024-12-03,Debit Card,Shipped,Kolkata
+ORD01826,CUST0073,Machine Learning Guide,Books,3.0,654.01,1962.03,2024-02-13,Debit Card,Delivered,Mumbai
+ORD01880,CUST0233,Bluetooth Headphones,Electronics,1.0,4694.44,4694.44,2024-07-14,Credit Card,Pending,Ahmedabad
+ORD01786,CUST0268,Finance Basics,Books,1.0,250.19,250.19,2024-08-09,Cash on Delivery,Shipped,Hyderabad
+ORD01606,CUST0042,Skipping Rope,Sports,1.0,1009.78,1009.78,2024-11-01,UPI,Delivered,Hyderabad
+ORD01877,CUST0206,Dinner Set,Home & Kitchen,3.0,4212.83,12638.49,2024-09-23,Cash on Delivery,Pending,Chennai
+ORD01837,CUST0207,Power Bank 20000mAh,Electronics,1.0,744.56,744.56,2024-10-13,Cash on Delivery,Delivered,Pune
+ORD01087,CUST0162,Dumbbells 5kg,Sports,2.0,2576.27,5152.54,2024-08-12,,Delivered,Mumbai
+ORD01674,CUST0045,Foundation Liquid,Beauty,1.0,1002.54,1002.54,2024-06-24,,Shipped,Pune
+ORD01322,CUST0279,Bluetooth Headphones,Electronics,3.0,6540.72,19622.16,2024-11-03,UPI,Shipped,
+ORD01282,CUST0207,Air Fryer,Home & Kitchen,2.0,,7247.52,2024-11-10,Credit Card,Delivered,Pune
+ORD01558,CUST0200,Finance Basics,Books,1.0,493.82,493.82,2024-12-18,,Returned,Lucknow
+ORD01351,CUST0067,Formal Shirt,Clothing,3.0,1606.12,4818.36,2024-03-07,Cash on Delivery,Delivered,Kolkata
+ORD01757,CUST0053,Running Shoes,Clothing,3.0,2216.55,6649.65,2024-03-23,Debit Card,Delivered,Hyderabad
+ORD01399,CUST0236,Women's Kurta,Clothing,1.0,776.58,776.58,2024-10-24,Cash on Delivery,Delivered,Kolkata
+ORD01306,CUST0235,Formal Shirt,Clothing,1.0,,2219.16,2024-12-01,,Delivered,Kolkata
+ORD01632,CUST0160,Mechanical Keyboard,Electronics,3.0,4148.78,12446.34,2024-08-12,Credit Card,Delivered,Chennai
+ORD01463,CUST0001,Bedsheet King,Home & Kitchen,1.0,1574.87,1574.87,2024-07-04,Debit Card,Delivered,Lucknow
+ORD01765,CUST0095,Machine Learning Guide,Books,4.0,652.68,2610.72,2024-12-10,Credit Card,Shipped,Kolkata
+ORD01491,CUST0038,Winter Jacket,Clothing,2.0,1445.69,2891.38,2024-11-22,Debit Card,Delivered,Jaipur
+ORD01818,CUST0136,Power Bank 20000mAh,Electronics,2.0,3059.9,6119.8,2024-02-13,Debit Card,Pending,Hyderabad
+ORD01862,CUST0300,Non-stick Pan,Home & Kitchen,1.0,3161.3,3161.3,2024-01-05,Debit Card,Cancelled,Bengaluru
+ORD01534,CUST0040,Cotton Socks,Clothing,3.0,1914.9,5744.7,2024-11-22,Credit Card,Delivered,Hyderabad
+ORD01285,CUST0127,Dinner Set,Home & Kitchen,1.0,3803.11,3803.11,2024-06-12,UPI,Returned,Bengaluru
+ORD01597,CUST0168,Formal Shirt,Clothing,1.0,2131.91,2131.91,2024-12-09,Credit Card,Delivered,Bengaluru
+ORD01056,CUST0120,Power Bank 20000mAh,Electronics,2.0,7932.4,15864.8,2024-11-08,Debit Card,Cancelled,Bengaluru
+ORD01121,CUST0006,Mechanical Keyboard,Electronics,2.0,4597.05,9194.1,2024-12-14,UPI,Delivered,
+ORD01901,CUST0282,Resistance Bands,Sports,1.0,2019.26,2019.26,2024-04-13,Net Banking,Delivered,Kolkata
+ORD01026,CUST0082,Formal Shirt,Clothing,1.0,1380.45,1380.45,2024-09-14,Cash on Delivery,Delivered,Chennai
+ORD01073,CUST0195,Wireless Mouse,CLOTHING,1.0,858.12,858.12,2024-11-14,Credit Card,Pending,Kolkata
+ORD01045,CUST0041,Foundation Liquid,Beauty,1.0,701.0,701.0,2024-11-23,Credit Card,Delivered,Ahmedabad
+ORD01260,CUST0098,Wireless Mouse,Electronics,1.0,1665.58,1665.58,2024-08-26,Debit Card,Delivered,Pune
+ORD01209,CUST0049,Denim Jeans,electronics,1.0,1522.05,1522.05,2024-09-06,UPI,Shipped,Jaipur
+ORD01295,CUST0105,Coffee Maker,Home & Kitchen,1.0,420.96,420.96,2024-05-29,Debit Card,Delivered,Delhi
+ORD01994,CUST0250,Data Science Handbook,Books,2.0,605.72,1211.44,2024-02-19,Debit Card,Pending,Bengaluru
+ORD01714,CUST0189,Finance Basics,Electronics!,2.0,337.38,674.76,2024-02-12,Debit Card,Delivered,Pune
+ORD01299,CUST0203,Bedsheet King,Home & Kitchen,1.0,4146.5,4146.5,2024-10-01,UPI,Delivered,Kolkata
+ORD01787,CUST0195,Women's Kurta,Clothing,2.0,2113.72,4227.44,2024-09-07,Net Banking,Delivered,Kolkata
+ORD01446,CUST0154,Dumbbells 5kg,Sports,1.0,1597.2,1597.2,2024-05-03,Credit Card,Delivered,Hyderabad
+ORD01335,CUST0140,Women's Kurta,Clothing,1.0,2094.84,2094.84,2024-05-28,UPI,Delivered,Kolkata
+ORD01654,CUST0175,Bluetooth Headphones,Electronics,1.0,2604.53,2604.53,2024-08-26,Debit Card,Pending,Kolkata
+ORD01169,CUST0109,Power Bank 20000mAh,Electronics,2.0,3299.01,6598.02,2024-12-07,Cash on Delivery,Shipped,Lucknow
+ORD01248,CUST0031,Wireless Mouse,Electronics,2.0,7207.01,14414.02,2024-02-29,UPI,Delivered,Chennai
+ORD01845,CUST0222,Mixer Grinder,Home & Kitchen,1.0,2936.91,2936.91,2024-10-13,Credit Card,Shipped,Delhi
+ORD01955,CUST0194,Webcam HD,Electronics,1.0,4963.88,4963.88,2024-03-30,Debit Card,Delivered,Hyderabad
+ORD01778,CUST0289,Towel Set,Home & Kitchen,3.0,2617.05,7851.15,2024-03-16,Debit Card,Delivered,Delhi
+ORD01332,CUST0055,Python Programming,Books,1.0,234.11,234.11,2024-08-07,Debit Card,Delivered,Ahmedabad
+ORD01311,CUST0110,Monitor 24-inch,Electronics,3.0,6057.09,18171.27,2024-07-10,Debit Card,Delivered,Mumbai
+ORD01061,CUST0187,Non-stick Pan,Home & Kitchen,1.0,2004.21,2004.21,2024-04-19,Cash on Delivery,Delivered,Pune
+ORD01514,CUST0238,Monitor 24-inch,Electronics,1.0,2469.18,2469.18,2024-08-10,UPI,Delivered,Bengaluru
+ORD01605,CUST0130,Non-stick Pan,Home & Kitchen,2.0,2503.68,5007.36,2024-08-28,UPI,Delivered,Lucknow
+ORD01606,CUST0042,Skipping Rope,Sports,1.0,1009.78,1009.78,2024-11-01,UPI,Delivered,Hyderabad
+ORD01850,CUST0118,Resistance Bands,Sports,1.0,670.84,670.84,2024-05-10,Credit Card,Returned,Delhi
+ORD01486,CUST0076,Power Bank 20000mAh,Electronics,1.0,5663.05,5663.05,2024-02-15,Credit Card,Delivered,Chennai
+ORD01424,CUST0223,Non-stick Pan,Home & Kitchen,3.0,4515.75,13547.25,2024-11-28,Debit Card,Delivered,Ahmedabad
+ORD01603,CUST0143,Lip Balm Set,Beauty,1.0,750.91,750.91,2024-11-08,Credit Card,Shipped,Delhi
+ORD01199,CUST0110,Water Bottle,Sports,1.0,492.74,492.74,2024-02-13,Net Banking,Shipped,Delhi
+ORD01345,CUST0048,Business Analytics,Books,2.0,568.82,1137.64,2024-05-31,Debit Card,Delivered,Hyderabad
+ORD01894,CUST0266,USB-C Hub,Electronics,3.0,3341.92,10025.76,2024-02-26,Cash on Delivery,Delivered,Pune
+ORD01833,CUST0225,Lip Balm Set,Beauty,,736.03,736.03,2024-08-05,Credit Card,Delivered,Ahmedabad
+ORD01639,CUST0204,Running Shoes,Clothing,5.0,945.74,4728.7,2024-10-21,Credit Card,Pending,Jaipur
+ORD01334,CUST0080,Water Purifier,Home & Kitchen,3.0,,4090.35,2024-06-08,Credit Card,Delivered,Bengaluru
+ORD01454,CUST0066,Lip Balm Set,Beauty,2.0,731.02,1462.04,2024-10-21,Net Banking,Shipped,Chennai
+ORD01328,CUST0054,Bluetooth Headphones,Electronics,2.0,6997.95,13995.9,2024-11-13,Debit Card,Delivered,Delhi
+ORD01111,CUST0079,Power Bank 20000mAh,Electronics,1.0,6233.03,6233.03,2024-11-15,Credit Card,Returned,Lucknow
+ORD01829,CUST0085,Running Shoes,Clothing,1.0,2470.0,2470.0,2024-01-31,Credit Card,Delivered,Pune
+ORD01960,CUST0293,Men's T-Shirt,Clothing,4.0,1697.08,6788.32,2024-05-06,Debit Card,Cancelled,Chennai
+ORD01353,CUST0083,Dinner Set,Home & Kitchen,2.0,2739.77,5479.54,2024-11-12,Debit Card,Shipped,Delhi
+ORD01266,CUST0032,Face Moisturizer,Beauty,1.0,1496.03,1496.03,2024-11-26,Net Banking,Delivered,Kolkata
+ORD01912,CUST0008,Water Bottle,Sports,1.0,786.84,786.84,2024-10-12,Debit Card,Delivered,Mumbai
+ORD01747,CUST0008,Denim Jeans,Clothing,2.0,742.89,1485.78,2024-09-13,Debit Card,Pending,Delhi
+ORD01421,CUST0136,Mixer Grinder,Home & Kitchen,2.0,1088.29,2176.58,2024-08-20,UPI,Delivered,Lucknow
+ORD01812,CUST0119,Laptop Stand,Electronics,1.0,1405.16,1405.16,2024-05-12,UPI,Pending,Pune
+ORD01635,CUST0014,Towel Set,Home & Kitchen,3.0,4718.42,14155.26,2024-10-01,UPI,Delivered,Bengaluru
+ORD01588,CUST0014,Finance Basics,Books,2.0,523.22,1046.44,2024-10-30,Debit Card,Delivered,Lucknow
+ORD01663,CUST0223,Non-stick Pan,Home & Kitchen,1.0,4343.8,4343.8,2024-12-19,Debit Card,Delivered,Pune
+ORD01852,CUST0011,Mechanical Keyboard,Electronics,4.0,2434.51,9738.04,2024-03-02,Credit Card,Pending,Mumbai
+ORD01138,CUST0260,Finance Basics,Books,4.0,226.32,905.28,2024-05-31,UPI,Delivered,Pune
+ORD01371,CUST0158,Business Analytics,Books,2.0,515.48,1030.96,2024-12-07,UPI,Cancelled,Ahmedabad
+ORD01382,CUST0122,USB-C Hub,Electronics,3.0,4404.55,13213.65,2024-03-22,Debit Card,Delivered,Ahmedabad
+ORD01781,CUST0128,Finance Basics,Books,1.0,229.29,229.29,2024-02-24,Credit Card,Delivered,Pune
+ORD01761,CUST0241,Air Fryer,Home & Kitchen,2.0,1525.2,3050.4,2024-06-16,Credit Card,Delivered,Hyderabad
+ORD01683,CUST0254,Running Shoes,Clothing,1.0,1620.3,1620.3,2024-07-01,Debit Card,Shipped,Delhi
+ORD01848,CUST0014,Coffee Maker,Home & Kitchen,2.0,4092.53,8185.06,2024-07-24,Credit Card,Cancelled,Lucknow
+ORD01333,CUST0284,Laptop Stand,Electronics,4.0,5979.94,23919.76,2024-06-13,Credit Card,Shipped,Jaipur
+ORD01708,CUST0151,Dumbbells 5kg,Sports,1.0,1845.29,1845.29,2024-12-09,Credit Card,Delivered,Pune
+ORD01219,CUST0207,Winter Jacket,Clothing,2.0,2390.51,4781.02,2024-12-13,Credit Card,Pending,Delhi
+ORD01426,CUST0161,Finance Basics,Books,1.0,524.48,524.48,2024-05-10,UPI,Cancelled,Kolkata
+ORD01449,CUST0210,Mixer Grinder,Home & Kitchen,5.0,2606.79,13033.95,2024-09-18,Debit Card,Pending,Hyderabad
+ORD01723,CUST0233,Coffee Maker,Home & Kitchen,2.0,3872.81,7745.62,2024-09-23,UPI,Delivered,Kolkata
+ORD01363,CUST0019,Monitor 24-inch,Electronics,3.0,2116.92,6350.76,2024-04-07,Credit Card,Delivered,Pune
+ORD01079,CUST0118,Water Bottle,Sports,3.0,1968.86,5906.58,2024-02-02,Credit Card,Delivered,Kolkata
+ORD01030,CUST0080,Face Moisturizer,Beauty,2.0,1293.91,2587.82,2024-10-09,Debit Card,Cancelled,Chennai
+ORD01944,CUST0153,Bluetooth Headphones,Electronics,2.0,5064.0,10128.0,2024-07-14,UPI,Delivered,Jaipur
+ORD01952,CUST0171,Business Analytics,Books,1.0,256.7,256.7,2024-08-05,UPI,Delivered,Bengaluru
+ORD01238,CUST0277,Coffee Maker,Home & Kitchen,5.0,2782.95,13914.75,2024-07-03,Credit Card,Cancelled,Pune
+ORD01653,CUST0260,Running Shoes,Clothing,2.0,1059.02,2118.04,2024-04-09,Cash on Delivery,Delivered,Pune
+ORD01372,CUST0187,Bedsheet King,Home & Kitchen,2.0,4099.03,8198.06,2024-01-13,Credit Card,Shipped,Ahmedabad
+ORD01166,CUST0136,Dinner Set,Home & Kitchen,3.0,1509.44,4528.32,2024-11-24,Debit Card,Shipped,
+ORD01815,CUST0233,Face Moisturizer,Beauty,,1253.05,1253.05,2024-02-23,UPI,Cancelled,Bengaluru
+ORD01179,CUST0127,Mechanical Keyboard,Electronics,1.0,902.72,902.72,2024-02-08,UPI,Shipped,Pune
+ORD01479,CUST0264,Cotton Socks,Clothing,2.0,2495.32,4990.64,2024-01-17,Credit Card,Pending,Pune
+ORD01066,CUST0137,Water Bottle,Sports,,,7063.29,2024-09-14,Debit Card,Delivered,Jaipur
+ORD01142,CUST0083,Air Fryer,Home & Kitchen,2.0,1842.15,3684.3,2024-02-29,UPI,Delivered,Chennai
+ORD01261,CUST0152,Dumbbells 5kg,Sports,2.0,0.0,2930.74,2024-03-02,Credit Card,Shipped,Delhi
+ORD01865,CUST0047,Finance Basics,Books,1.0,789.47,789.47,2024-07-08,Debit Card,Delivered,Chennai
+ORD01709,CUST0114,Business Analytics,Books,1.0,766.71,766.71,2024-03-23,UPI,Shipped,Jaipur
+ORD01527,CUST0127,Water Purifier,Home & Kitchen,5.0,4981.17,24905.85,2024-05-21,UPI,Cancelled,Mumbai
+ORD01964,CUST0023,Cycling Gloves,Sports,2.0,2682.62,5365.24,2024-07-29,Credit Card,Delivered,Delhi
+ORD01262,CUST0112,Eye Liner,Beauty,0.0,944.62,944.62,2024-06-16,Credit Card,Delivered,Bengaluru
+ORD01478,CUST0146,Cotton Socks,Clothing,1.0,1872.35,1872.35,2024-03-18,Debit Card,Delivered,Mumbai
+ORD01324,CUST0271,Leadership Mindset,Books,1.0,680.41,680.41,2024-04-23,UPI,Delivered,Jaipur
+ORD01222,CUST0128,Wireless Mouse,Electronics,2.0,3521.38,7042.76,2024-12-21,Debit Card,Delivered,Pune
+ORD01830,CUST0158,Wireless Mouse,Electronics,2.0,3865.53,7731.06,2024-01-03,Debit Card,Delivered,Kolkata
+ORD01319,CUST0146,Sports Shorts,Clothing,2.0,1273.41,2546.82,2024-11-15,UPI,Delivered,Ahmedabad
+ORD01293,CUST0162,Resistance Bands,Sports,1.0,942.74,942.74,2024-05-01,Credit Card,Delivered,Delhi
+ORD01949,CUST0276,Bluetooth Headphones,Electronics,2.0,7299.74,14599.48,2024-05-07,UPI,Delivered,Chennai
+ORD01050,CUST0099,Power Bank 20000mAh,Electronics,2.0,3979.65,7959.3,2024-10-23,UPI,Cancelled,Kolkata
+ORD01738,CUST0269,Dinner Set,Home & Kitchen,1.0,1240.36,1240.36,2024-11-15,Debit Card,Pending,Jaipur
+ORD01003,CUST0141,Denim Jeans,Clothing,1.0,590.96,590.96,2024-07-14,UPI,Delivered,Lucknow
+ORD01553,CUST0239,Sunscreen SPF50,Beauty,1.0,168.49,168.49,2024-11-30,Credit Card,Cancelled,Pune
+ORD01378,CUST0182,Water Purifier,Home & Kitchen,1.0,1682.64,1682.64,2024-12-15,Credit Card,Delivered,Delhi
+ORD01917,CUST0059,Mixer Grinder,Home & Kitchen,1.0,738.24,738.24,2024-10-10,Credit Card,Shipped,Bengaluru
+ORD01545,CUST0197,Monitor 24-inch,Electronics,1.0,2925.96,2925.96,2024-08-20,Net Banking,Cancelled,Lucknow
+ORD01789,CUST0227,Mechanical Keyboard,Electronics,2.0,7799.54,15599.08,2024-11-27,Cash on Delivery,Delivered,Bengaluru
+ORD01368,CUST0221,Water Bottle,Sports,1.0,2453.43,2453.43,2024-11-04,Credit Card,Shipped,Jaipur
+ORD01500,CUST0076,Bedsheet King,Home & Kitchen,3.0,3806.71,11420.13,2024-10-22,UPI,Shipped,Pune
+ORD01586,CUST0202,Laptop Stand,Electronics,5.0,,23048.1,2024-07-15,Debit Card,Pending,Delhi
+ORD01034,CUST0048,Running Shoes,Clothing,2.0,2196.61,4393.22,2024-05-27,Debit Card,Delivered,Lucknow
+ORD01032,CUST0173,Cycling Gloves,Sports,1.0,2784.36,2784.36,2024-02-13,Debit Card,Shipped,Delhi
+ORD01232,CUST0128,Eye Liner,Beauty,1.0,1490.12,1490.12,2024-09-28,Credit Card,Shipped,Lucknow
+ORD01759,CUST0294,Monitor 24-inch,Electronics,1.0,2000.56,2000.56,2024-10-21,Credit Card,Delivered,Delhi
+ORD01193,CUST0170,,Books,1.0,587.44,587.44,2024-06-04,Credit Card,Delivered,Chennai
+ORD01347,CUST0142,Face Moisturizer,Beauty,1.0,113.54,113.54,2024-11-27,Debit Card,Cancelled,Bengaluru
+ORD01004,CUST0126,Water Purifier,Home & Kitchen,1.0,2467.4,2467.4,2024-05-10,Net Banking,Delivered,Mumbai
+ORD01205,CUST0125,Face Moisturizer,Beauty,3.0,908.29,2724.87,2024-10-01,Debit Card,Delivered,Bengaluru
+ORD01670,CUST0224,Finance Basics,Books,4.0,675.72,2702.88,2024-02-03,Net Banking,Delivered,Chennai
+ORD01584,CUST0274,Cotton Socks,Clothing,1.0,2145.26,2145.26,2024-06-27,UPI,Delivered,Lucknow
+ORD01320,CUST0081,Skipping Rope,Sports,2.0,1772.08,3544.16,2024-05-24,UPI,Delivered,Hyderabad
+ORD01078,CUST0029,Men's T-Shirt,Clothing,1.0,1010.29,1010.29,2024-11-25,Net Banking,Shipped,Bengaluru
+ORD01085,CUST0109,Power Bank 20000mAh,Electronics,1.0,,3136.6,2024-06-29,Cash on Delivery,Delivered,Lucknow
+ORD01300,CUST0068,Running Shoes,Clothing,2.0,2276.39,4552.78,2024-09-14,Cash on Delivery,Pending,Lucknow
+ORD01083,CUST0138,Mixer Grinder,Home & Kitchen,2.0,4065.4,8130.8,2024-02-10,UPI,Pending,Ahmedabad
+ORD01362,CUST0280,USB-C Hub,Electronics,3.0,4193.17,12579.51,2024-07-28,Credit Card,Delivered,Delhi
+ORD01381,CUST0080,Mixer Grinder,Home & Kitchen,2.0,2605.59,5211.18,2024-07-02,UPI,Delivered,Delhi
+ORD01834,CUST0064,Hair Serum,Beauty,1.0,400.7,400.7,2024-12-12,Debit Card,Delivered,Jaipur
+ORD01528,CUST0142,Face Moisturizer,Beauty,4.0,1421.79,5687.16,2024-04-25,Debit Card,Delivered,Bengaluru
+ORD01784,CUST0214,Dinner Set,Home & Kitchen,2.0,4051.29,8102.58,2024-10-07,Debit Card,Delivered,Lucknow
+ORD01688,CUST0182,Water Bottle,Sports,3.0,1008.18,3024.54,2024-08-05,Credit Card,Delivered,Ahmedabad
+ORD01290,CUST0299,Webcam HD,Electronics,1.0,7637.47,7637.47,2024-03-28,Credit Card,Delivered,Ahmedabad
+ORD01006,CUST0072,Winter Jacket,Clothing,1.0,658.2,658.2,2024-09-04,Credit Card,Delivered,
+ORD01972,CUST0065,Machine Learning Guide,Books,1.0,457.6,457.6,2024-08-07,Debit Card,Cancelled,Pune
+ORD01484,CUST0116,Water Purifier,Home & Kitchen,1.0,1994.01,1994.01,2024-12-07,Cash on Delivery,Delivered,Chennai
+ORD01098,CUST0135,Denim Jeans,Clothing,2.0,942.12,1884.24,2024-06-26,Net Banking,Pending,Jaipur
+ORD01452,CUST0152,Dinner Set,Home & Kitchen,3.0,1999.53,5998.59,2024-04-05,Credit Card,Delivered,Jaipur
+ORD01679,CUST0292,,Clothing,1.0,540.27,540.27,2024-03-24,Debit Card,Cancelled,Jaipur
+ORD01881,CUST0046,Bluetooth Headphones,Electronics,2.0,3900.58,7801.16,2024-08-07,UPI,Delivered,Lucknow
+ORD01267,CUST0161,Lip Balm Set,Beauty,-3.0,271.54,1086.16,2024-01-26,Cash on Delivery,Delivered,Bengaluru
+ORD01437,CUST0267,Business Analytics,Books,1.0,305.52,305.52,2024-03-21,Cash on Delivery,Pending,Delhi
+ORD01440,CUST0187,Resistance Bands,Sports,1.0,213.02,213.02,2024-09-16,UPI,Delivered,Delhi
+ORD01315,CUST0179,Dinner Set,Home & Kitchen,3.0,1917.97,5753.91,2024-05-12,Credit Card,Delivered,Delhi
+ORD01828,CUST0031,Denim Jeans,Clothing,4.0,253.87,1015.48,2024-10-03,Credit Card,Pending,Lucknow
+ORD01937,CUST0142,Sports Shorts,Clothing,1.0,1763.91,1763.91,2024-02-19,UPI,Delivered,Bengaluru
+ORD01119,CUST0129,Running Shoes,Clothing,1.0,1788.15,1788.15,2024-11-09,Net Banking,Shipped,Kolkata
+ORD01383,CUST0084,Sports Shorts,Clothing,1.0,1725.67,1725.67,2024-05-30,Cash on Delivery,Shipped,Chennai
+ORD01251,CUST0002,Bluetooth Headphones,Electronics,3.0,1845.08,5535.24,2024-01-24,Credit Card,Delivered,Ahmedabad
+ORD01450,CUST0168,Monitor 24-inch,Electronics,2.0,4087.4,8174.8,2024-09-14,Debit Card,Shipped,Pune
+ORD01448,CUST0159,Non-stick Pan,Home & Kitchen,1.0,4285.65,4285.65,2024-06-10,Net Banking,Cancelled,Kolkata
+ORD01010,CUST0217,Mixer Grinder,Home & Kitchen,1.0,4006.47,4006.47,2024-07-05,Credit Card,Delivered,Bengaluru
+ORD01197,CUST0143,Machine Learning Guide,Books,1.0,778.43,778.43,2024-08-08,Credit Card,Delivered,Delhi
+ORD01614,CUST0021,Air Fryer,Home & Kitchen,1.0,2793.08,2793.08,2024-05-27,Debit Card,Delivered,
+ORD01082,CUST0206,Running Shoes,Clothing,4.0,1909.61,7638.44,2024-07-16,Cash on Delivery,Delivered,Pune
+ORD01890,CUST0237,Laptop Stand,Electronics,1.0,3999.03,3999.03,2024-09-03,Net Banking,Delivered,Pune
+ORD01495,CUST0100,Bedsheet King,Home & Kitchen,2.0,3392.23,6784.46,2024-12-25,Credit Card,Delivered,Lucknow
+ORD01630,CUST0059,Coffee Maker,Home & Kitchen,3.0,2017.17,6051.51,2024-06-23,Net Banking,Pending,Delhi
+ORD01240,CUST0048,Men's T-Shirt,Clothing,4.0,2321.93,9287.72,2024-07-22,Credit Card,Shipped,Jaipur
+ORD01971,CUST0019,Bluetooth Headphones,Electronics,2.0,1226.31,2452.62,2024-01-04,UPI,Returned,Ahmedabad
+ORD01212,CUST0182,Machine Learning Guide,Books,1.0,611.59,611.59,2024-03-26,UPI,Pending,
+ORD01729,CUST0099,Skipping Rope,Sports,2.0,371.99,743.98,2024-03-06,Debit Card,Shipped,Pune
+ORD01825,CUST0137,Sports Shorts,Clothing,2.0,2241.43,4482.86,2024-11-12,UPI,Cancelled,Kolkata
+ORD01138,CUST0260,Finance Basics,Books,4.0,226.32,905.28,2024-05-31,UPI,Delivered,Pune
+ORD01228,CUST0217,Denim Jeans,Clothing,2.0,319.11,638.22,2024-12-24,Debit Card,Delivered,Chennai
+ORD01869,CUST0171,Air Fryer,Home & Kitchen,2.0,2893.39,5786.78,2024-10-16,UPI,Delivered,Lucknow
+ORD01585,CUST0014,Women's Kurta,Clothing,2.0,949.5,1899.0,2024-06-03,Debit Card,Delivered,Jaipur
+ORD01809,CUST0241,Mixer Grinder,Home & Kitchen,1.0,3546.28,3546.28,2024-09-04,Credit Card,Delivered,Bengaluru
+ORD01178,CUST0062,Bedsheet King,Home & Kitchen,2.0,3482.06,6964.12,2024-07-15,UPI,Shipped,Bengaluru
+ORD01468,CUST0297,Cotton Socks,Clothing,3.0,0.0,3823.62,2024-05-19,Debit Card,Returned,Jaipur
+ORD01508,CUST0026,Water Purifier,Home & Kitchen,2.0,3751.05,7502.1,2024-09-04,Debit Card,Cancelled,Bengaluru
+ORD01487,CUST0013,Non-stick Pan,Home & Kitchen,2.0,580.94,1161.88,2024-12-25,UPI,Delivered,Jaipur
+ORD01329,CUST0069,Monitor 24-inch,Electronics,1.0,4473.79,4473.79,2024-03-18,Cash on Delivery,Delivered,Bengaluru
+ORD01752,CUST0028,Face Moisturizer,Beauty,4.0,1003.56,4014.24,2024-01-18,UPI,Pending,Mumbai
+ORD01008,CUST0280,Python Programming,Books,2.0,741.9,1483.8,2024-05-26,UPI,Delivered,Chennai
+ORD01156,CUST0041,Denim Jeans,Clothing,1.0,889.74,889.74,2024-10-02,Credit Card,Delivered,Kolkata
+ORD01550,CUST0209,Denim Jeans,Clothing,,470.37,470.37,2024-04-13,UPI,Delivered,Mumbai
+ORD01552,CUST0278,Cotton Socks,Clothing,,382.63,765.26,2024-05-05,Credit Card,,Jaipur
+ORD01501,CUST0003,Women's Kurta,Clothing,,,583.66,2024-07-24,Debit Card,Delivered,Jaipur
+ORD01990,CUST0169,Water Purifier,Home & Kitchen,2.0,2626.62,5253.24,2024-07-11,,Delivered,Mumbai
+ORD01790,CUST0153,Coffee Maker,Home & Kitchen,1.0,1666.3,1666.3,2024-09-01,Credit Card,Delivered,Hyderabad
+ORD01583,CUST0066,Mechanical Keyboard,Electronics,3.0,6415.84,19247.52,2024-08-20,Credit Card,Delivered,Kolkata
+ORD01921,CUST0256,Laptop Stand,Electronics,3.0,2823.18,8469.54,2024-12-06,Credit Card,Delivered,Kolkata
+ORD01814,CUST0145,Power Bank 20000mAh,Electronics,5.0,,32462.0,2024-02-26,UPI,Shipped,Delhi
+ORD01948,CUST0229,Bedsheet King,Home & Kitchen,1.0,3345.82,3345.82,2024-01-13,Net Banking,Delivered,Chennai
+ORD01576,CUST0249,Formal Shirt,Clothing,2.0,1977.41,3954.82,2024-05-19,Credit Card,Delivered,
+ORD01434,CUST0023,Webcam HD,Electronics,1.0,2163.28,2163.28,2024-01-20,,Delivered,Ahmedabad
+ORD01539,CUST0164,Water Bottle,Sports,2.0,2627.96,5255.92,2024-06-15,Net Banking,Delivered,Kolkata
+ORD01592,CUST0237,Towel Set,Home & Kitchen,2.0,1219.63,2439.26,2024-06-11,UPI,Cancelled,Hyderabad
+ORD01719,CUST0218,Monitor 24-inch,Electronics,3.0,1420.72,4262.16,2024-09-12,UPI,Pending,Hyderabad
+ORD01466,CUST0108,Denim Jeans,Clothing,4.0,393.92,1575.68,2024-07-18,Credit Card,Shipped,Hyderabad
+ORD01775,CUST0028,Formal Shirt,Clothing,1.0,1202.28,1202.28,2024-09-08,UPI,Cancelled,Bengaluru
+ORD01229,CUST0094,Laptop Stand,Electronics,1.0,4076.05,4076.05,2024-04-25,UPI,Delivered,Jaipur
+ORD01443,CUST0170,Mixer Grinder,Home & Kitchen,2.0,617.51,1235.02,2024-04-22,Net Banking,Delivered,Chennai
+ORD01740,CUST0052,Hair Serum,Beauty,2.0,475.11,950.22,2024-11-10,Cash on Delivery,Shipped,Ahmedabad
+ORD01213,CUST0217,Bluetooth Headphones,Electronics,2.0,2561.4,5122.8,2024-03-27,UPI,Pending,
+ORD01080,CUST0017,Face Moisturizer,Beauty,1.0,541.83,541.83,2024-07-22,Debit Card,Delivered,Jaipur
+ORD01149,CUST0058,Running Shoes,Clothing,3.0,1423.45,4270.35,2024-05-06,Debit Card,Delivered,Kolkata
+ORD01303,CUST0162,Webcam HD,Electronics,2.0,2898.12,5796.24,2024-02-04,Debit Card,Delivered,Delhi
+ORD01568,CUST0215,Monitor 24-inch,Electronics,3.0,5198.83,15596.49,2024-10-19,Debit Card,Delivered,Lucknow
+ORD01989,CUST0042,Face Moisturizer,Beauty,1.0,938.43,938.43,2024-12-18,Credit Card,Pending,
+ORD01886,CUST0207,Men's T-Shirt,Clothing,2.0,1390.67,2781.34,2024-03-15,Credit Card,Pending,Mumbai
+ORD01656,CUST0216,Water Purifier,Home & Kitchen,3.0,706.43,2119.29,2024-09-07,UPI,Pending,Chennai
+ORD01779,CUST0156,Denim Jeans,Clothing,3.0,1924.85,5774.55,2024-10-15,Credit Card,Returned,Lucknow
+ORD01352,CUST0135,Men's T-Shirt,Clothing,2.0,345.67,691.34,2024-01-07,UPI,Delivered,Jaipur
+ORD01134,CUST0092,Data Science Handbook,Books,2.0,547.12,1094.24,2024-07-26,Debit Card,Delivered,Ahmedabad
+ORD01559,CUST0300,Formal Shirt,Clothing,2.0,797.22,1594.44,2024-11-15,Cash on Delivery,Shipped,Pune
+ORD01312,CUST0260,Running Shoes,Clothing,3.0,511.99,1535.97,2024-10-18,Credit Card,Cancelled,Mumbai
+ORD01617,CUST0103,Finance Basics,Books,3.0,586.73,1760.19,2024-09-23,UPI,Returned,Pune
+ORD01853,CUST0138,Towel Set,Home & Kitchen,2.0,2690.52,5381.04,2024-02-28,Credit Card,Delivered,Hyderabad
+ORD01801,CUST0123,Cycling Gloves,Sports,5.0,2167.27,10836.35,2024-08-29,Net Banking,Delivered,Mumbai
+ORD01001,CUST0058,Machine Learning Guide,Books,3.0,785.92,2357.76,2024-12-26,,Shipped,Delhi
+ORD01317,CUST0126,Bluetooth Headphones,Electronics,1.0,4055.73,4055.73,2024-03-29,Net Banking,Delivered,Lucknow
+ORD01718,CUST0177,Python Programming,Books,,631.93,2527.72,2024-03-27,Debit Card,Delivered,Delhi
+ORD01807,CUST0210,Mechanical Keyboard,Electronics,3.0,7413.02,22239.06,2024-12-02,Credit Card,Delivered,Kolkata
+ORD01358,CUST0005,Non-stick Pan,Home & Kitchen,3.0,4181.77,12545.31,2024-11-12,Net Banking,Delivered,Hyderabad
+ORD01823,CUST0116,Mixer Grinder,Home & Kitchen,3.0,2270.73,6812.19,2024-12-24,Net Banking,Shipped,Jaipur
+ORD01496,CUST0197,Coffee Maker,Home & Kitchen,4.0,,1446.0,2024-12-01,Cash on Delivery,Pending,Kolkata
+ORD01389,CUST0211,Water Bottle,Sports,4.0,2010.37,8041.48,2024-12-17,Credit Card,Shipped,Bengaluru
+ORD01173,CUST0205,Water Purifier,Home & Kitchen,3.0,1709.88,5129.64,2024-02-11,Credit Card,Delivered,Mumbai
+ORD01126,CUST0058,Mixer Grinder,Home & Kitchen,2.0,945.18,1890.36,2024-10-27,Credit Card,Shipped,
+ORD01412,CUST0261,Leadership Mindset,Books,1.0,503.83,503.83,2024-11-30,Debit Card,Shipped,Ahmedabad
+ORD01785,CUST0116,Monitor 24-inch,Electronics,3.0,1168.91,3506.73,2024-03-24,UPI,Delivered,Ahmedabad
+ORD01977,CUST0052,Coffee Maker,Home & Kitchen,4.0,1937.17,7748.68,2024-08-31,UPI,Delivered,Delhi
+ORD01916,CUST0116,Monitor 24-inch,Electronics,1.0,977.82,977.82,2024-08-31,Debit Card,Returned,Delhi
+ORD01091,CUST0235,Winter Jacket,Clothing,5.0,1796.16,8980.8,2024-04-12,Credit Card,Delivered,Delhi
+ORD01953,CUST0283,Water Purifier,Home & Kitchen,3.0,1577.75,4733.25,2024-02-10,Debit Card,Delivered,Pune
+ORD01182,CUST0174,Webcam HD,Electronics,2.0,1656.66,3313.32,2024-11-20,UPI,Delivered,Bengaluru
+ORD01364,CUST0190,Cycling Gloves,Sports,3.0,1848.67,5546.01,2024-08-18,UPI,Returned,Kolkata
+ORD01275,CUST0030,Bedsheet King,Home & Kitchen,3.0,1967.58,5902.74,2024-03-29,Credit Card,Delivered,Bengaluru
+ORD01908,CUST0123,Cycling Gloves,Sports,4.0,2271.5,9086.0,2024-01-05,Credit Card,Delivered,Hyderabad
+ORD01070,CUST0126,Wireless Mouse,Electronics,1.0,3311.85,3311.85,2024-02-20,UPI,Delivered,Pune
+ORD01292,CUST0268,Bedsheet King,Home & Kitchen,1.0,1038.39,1038.39,2024-04-15,Debit Card,Delivered,Chennai
+ORD01132,CUST0135,Cotton Socks,Clothing,1.0,2245.3,2245.3,2024-09-15,Credit Card,Pending,
+ORD01301,CUST0154,Leadership Mindset,Books,4.0,245.84,983.36,2024-08-17,,Delivered,Bengaluru
+ORD01523,CUST0082,Yoga Mat,Sports,1.0,1288.21,1288.21,2024-12-03,Net Banking,,Pune
+ORD01327,CUST0154,Webcam HD,Electronics,3.0,3653.54,10960.62,2024-07-09,UPI,Delivered,Hyderabad
+ORD01145,CUST0001,Women's Kurta,Clothing,1.0,1444.68,1444.68,2024-02-05,Credit Card,Delivered,Kolkata
+ORD01441,CUST0221,Women's Kurta,Clothing,4.0,2046.77,8187.08,2024-10-02,Credit Card,Delivered,Lucknow
+ORD01591,CUST0070,Cycling Gloves,Sports,3.0,2467.55,7402.65,2024-12-04,Debit Card,,Bengaluru
+ORD01651,CUST0190,Business Analytics,Books,1.0,299.54,299.54,2024-04-26,Credit Card,Delivered,Delhi
+ORD01136,CUST0055,Business Analytics,Books,2.0,346.26,692.52,2024-01-06,UPI,Shipped,Hyderabad
+ORD01425,CUST0177,Monitor 24-inch,Electronics,3.0,2221.15,6663.45,2024-07-14,UPI,Shipped,Pune
+ORD01165,CUST0085,Bedsheet King,Home & Kitchen,1.0,1687.4,1687.4,2024-04-27,UPI,Delivered,Ahmedabad
+ORD01029,CUST0143,Mechanical Keyboard,Electronics,2.0,3356.78,6713.56,2024-05-30,Debit Card,Delivered,Kolkata
+ORD01571,CUST0113,Laptop Stand,Electronics,1.0,7350.15,7350.15,2024-01-13,Cash on Delivery,Delivered,Kolkata
+ORD01194,CUST0037,Running Shoes,Clothing,5.0,370.12,1850.6,2024-09-02,Debit Card,Delivered,Lucknow
+ORD01405,CUST0099,Eye Liner,Beauty,2.0,143.67,287.34,2024-07-26,Credit Card,Delivered,Lucknow
+ORD01883,CUST0130,Laptop Stand,Electronics,,7282.77,7282.77,2024-09-17,Debit Card,Delivered,
+ORD01170,CUST0277,Monitor 24-inch,Electronics,2.0,588.88,1177.76,2024-05-20,Cash on Delivery,Delivered,Jaipur
+ORD01507,CUST0238,Denim Jeans,Clothing,3.0,809.47,2428.41,2024-05-07,Credit Card,Delivered,Chennai
+ORD01141,CUST0192,Formal Shirt,Clothing,2.0,379.64,759.28,2024-02-01,Cash on Delivery,Delivered,Jaipur
+ORD01174,CUST0192,Non-stick Pan,Home & Kitchen,2.0,3292.72,6585.44,2024-02-12,Net Banking,Shipped,Kolkata
+ORD01007,CUST0053,Mixer Grinder,Home & Kitchen,3.0,403.12,1209.36,2024-07-21,Credit Card,Cancelled,Hyderabad
+ORD01698,CUST0124,Resistance Bands,Sports,2.0,742.68,1485.36,2024-02-18,UPI,Delivered,Lucknow
+ORD01517,CUST0163,Men's T-Shirt,Clothing,1.0,1970.27,1970.27,2024-06-28,Net Banking,Pending,Lucknow
+ORD01074,CUST0139,Non-stick Pan,Home & Kitchen,2.0,3270.19,6540.38,2024-03-14,Debit Card,Shipped,Hyderabad
+ORD01694,CUST0006,Non-stick Pan,Home & Kitchen,1.0,860.97,860.97,2024-02-04,UPI,Delivered,Lucknow
+ORD01533,CUST0226,Data Science Handbook,Books,3.0,356.44,1069.32,2024-01-16,Net Banking,Delivered,Pune
+ORD01239,CUST0008,Dinner Set,Home & Kitchen,1.0,2867.87,2867.87,2024-08-29,Credit Card,Delivered,Delhi
+ORD01146,CUST0166,,Books,2.0,785.92,1571.84,2024-08-03,Cash on Delivery,Delivered,Pune
+ORD01804,CUST0039,Finance Basics,Books,3.0,738.3,2214.9,2024-04-28,Debit Card,Delivered,Mumbai
+ORD01235,CUST0282,Webcam HD,Electronics,1.0,5334.65,5334.65,2024-11-03,UPI,Delivered,Lucknow
+ORD01221,CUST0056,Eye Liner,Beauty,1.0,649.78,649.78,2024-11-19,UPI,Delivered,Hyderabad
+ORD01494,CUST0295,USB-C Hub,Electronics,1.0,1839.79,1839.79,2024-02-24,Credit Card,Delivered,Kolkata
+ORD01669,CUST0239,Coffee Maker,Home & Kitchen,2.0,,5019.54,2024-09-29,Debit Card,Delivered,
+ORD01133,CUST0257,Cotton Socks,Clothing,2.0,1691.06,3382.12,2024-01-08,UPI,Delivered,Pune
+ORD01617,CUST0103,Finance Basics,Books,3.0,586.73,1760.19,2024-09-23,UPI,Returned,Pune
+ORD01938,CUST0213,Dinner Set,Home & Kitchen,2.0,1816.59,3633.18,2024-11-15,Cash on Delivery,Delivered,Chennai
+ORD01666,CUST0139,Mechanical Keyboard,Electronics,0.0,,3629.02,2024-02-04,UPI,Delivered,Jaipur
+ORD01186,CUST0113,Air Fryer,Home & Kitchen,1.0,,3520.99,2024-05-17,Credit Card,Delivered,
+ORD01042,CUST0275,Monitor 24-inch,Electronics,1.0,7883.34,7883.34,2024-04-14,Cash on Delivery,Pending,Hyderabad
+ORD01621,CUST0065,Denim Jeans,Clothing,2.0,2260.8,4521.6,2024-05-09,Debit Card,,Hyderabad
+ORD01109,CUST0025,Eye Liner,Beauty,1.0,1041.53,1041.53,2024-01-05,Debit Card,Cancelled,Delhi
+ORD01599,CUST0233,Eye Liner,Beauty,,946.2,946.2,2024-04-02,Debit Card,Delivered,Kolkata
+ORD01057,CUST0052,Formal Shirt,Clothing,1.0,1761.46,1761.46,2024-11-19,Credit Card,Delivered,Pune
+ORD01423,CUST0056,Bluetooth Headphones,Electronics,2.0,7083.14,14166.28,2024-03-01,Debit Card,Delivered,Delhi
+ORD01657,CUST0251,Running Shoes,Clothing,1.0,,1893.21,2024-06-16,UPI,Cancelled,Ahmedabad
+ORD01907,CUST0015,Winter Jacket,Clothing,3.0,1913.99,5741.97,2024-05-20,UPI,Returned,Chennai
+ORD01873,CUST0169,Cotton Socks,Clothing,2.0,1339.82,2679.64,2024-01-23,Credit Card,Cancelled,Chennai
+ORD01025,CUST0004,Denim Jeans,Clothing,1.0,810.35,810.35,2024-08-03,Credit Card,Delivered,Jaipur
+ORD01544,CUST0119,Cotton Socks,Clothing,2.0,408.01,816.02,2024-04-02,Cash on Delivery,Shipped,Lucknow
+ORD01905,CUST0249,Wireless Mouse,Electronics,1.0,3193.2,3193.2,2024-09-13,Debit Card,Delivered,Jaipur
+ORD01540,CUST0277,Leadership Mindset,Books,1.0,627.97,627.97,2024-06-09,UPI,Shipped,Ahmedabad
+ORD01629,CUST0086,Machine Learning Guide,Books,2.0,228.78,457.56,2024-07-02,UPI,Delivered,Pune
+ORD01705,CUST0230,,Books,1.0,231.47,231.47,2024-02-10,UPI,Pending,Ahmedabad
+ORD01940,CUST0260,Cotton Socks,Clothing,2.0,706.22,1412.44,2024-05-22,Debit Card,Delivered,Lucknow
+ORD01339,CUST0105,Non-stick Pan,Home & Kitchen,2.0,3411.26,6822.52,2024-01-11,UPI,Delivered,Mumbai
+ORD01052,CUST0024,Winter Jacket,Clothing,1.0,1560.27,1560.27,2024-02-07,Debit Card,Delivered,Hyderabad
+ORD01384,CUST0091,Non-stick Pan,Home & Kitchen,1.0,839.19,839.19,2024-05-03,Cash on Delivery,Delivered,Lucknow
+ORD01524,CUST0244,Eye Liner,Beauty,5.0,641.13,3205.65,2024-09-17,Cash on Delivery,Delivered,Delhi
+ORD01934,CUST0261,Data Science Handbook,Books,1.0,437.34,437.34,2024-11-21,UPI,Shipped,Jaipur
+ORD01849,CUST0047,Monitor 24-inch,Electronics,1.0,1853.81,1853.81,2024-09-27,Debit Card,Delivered,Pune
+ORD01265,CUST0278,Dumbbells 5kg,Sports,1.0,754.77,754.77,2024-12-17,UPI,Delivered,Delhi
+ORD01546,CUST0079,Face Moisturizer,Beauty,2.0,450.12,900.24,2024-12-30,UPI,Delivered,Bengaluru
+ORD01722,CUST0181,Hair Serum,Beauty,5.0,1049.35,5246.75,2024-07-14,UPI,Delivered,Lucknow
+ORD01693,CUST0285,Cotton Socks,Clothing,2.0,485.61,971.22,32-13-2024,Credit Card,Cancelled,Ahmedabad
+ORD01396,CUST0241,Monitor 24-inch,Electronics,4.0,4528.64,18114.56,2024-06-05,UPI,Cancelled,Chennai
+ORD01526,CUST0133,Webcam HD,Electronics,1.0,3001.77,3001.77,2024-03-21,Debit Card,Delivered,Mumbai
+ORD01465,CUST0147,Power Bank 20000mAh,Electronics,1.0,4613.25,4613.25,2024-07-22,UPI,Delivered,Jaipur
+ORD01019,CUST0102,Mixer Grinder,Home & Kitchen,1.0,453.77,453.77,2024-08-15,Cash on Delivery,Cancelled,Kolkata
+ORD01909,CUST0082,Water Bottle,Sports,3.0,2501.21,7503.63,2024-01-07,UPI,Returned,Kolkata
+ORD01502,CUST0055,Water Bottle,Sports,4.0,2813.86,11255.44,2024-10-08,Net Banking,Delivered,Pune
+ORD01577,CUST0015,Resistance Bands,Sports,1.0,1639.37,1639.37,2024-06-28,Debit Card,Delivered,Jaipur
+ORD01451,CUST0207,Wireless Mouse,Electronics,2.0,5736.83,11473.66,2024-12-18,Credit Card,Delivered,Mumbai
+ORD01368,CUST0221,Water Bottle,Sports,1.0,2453.43,2453.43,2024-11-04,Credit Card,Shipped,Jaipur
+ORD01084,CUST0034,Dinner Set,Home & Kitchen,1.0,782.21,782.21,2024-05-31,Debit Card,Shipped,Hyderabad
+ORD01062,CUST0084,USB-C Hub,Electronics,1.0,1662.09,1662.09,2024-02-21,UPI,Pending,Jaipur
+ORD01939,CUST0175,Sports Shorts,Clothing,1.0,691.69,691.69,2024-03-29,Debit Card,Delivered,Mumbai
+ORD01273,CUST0272,Lip Balm Set,Beauty,5.0,182.03,910.15,2024-09-28,UPI,Returned,Pune
+ORD01286,CUST0297,Eye Liner,Beauty,3.0,994.74,2984.22,2024-08-16,Credit Card,Delivered,Mumbai
+ORD01361,CUST0077,Mechanical Keyboard,Electronics,5.0,6724.13,33620.65,2024-05-29,Debit Card,,Jaipur
+ORD01355,CUST0283,Towel Set,Home & Kitchen,3.0,4303.79,12911.37,2024-02-08,Debit Card,Delivered,Kolkata
+ORD01515,CUST0272,Monitor 24-inch,Electronics,1.0,5391.86,5391.86,2024-11-11,Credit Card,Delivered,Jaipur
+ORD01279,CUST0036,Lip Balm Set,Beauty,4.0,1103.71,4414.84,2024-06-14,Credit Card,Delivered,Mumbai
+ORD01013,CUST0048,Data Science Handbook,Books,2.0,709.09,1418.18,2024-07-22,Debit Card,Pending,Jaipur
+ORD01183,CUST0011,Bluetooth Headphones,Electronics,1.0,7572.2,7572.2,2024-05-18,Credit Card,Delivered,Delhi
+ORD01369,CUST0066,Eye Liner,Beauty,2.0,1131.55,2263.1,2024-04-21,Credit Card,Shipped,Chennai
+ORD01904,CUST0225,Running Shoes,Clothing,3.0,1140.59,3421.77,2024-06-11,Debit Card,Delivered,Hyderabad
+ORD01626,CUST0239,Mixer Grinder,Home & Kitchen,1.0,3953.01,3953.01,2024-09-11,UPI,Delivered,Bengaluru
+ORD01224,CUST0098,Running Shoes,Clothing,2.0,2097.15,4194.3,2024-06-14,Debit Card,Delivered,Hyderabad
+ORD01582,CUST0240,Towel Set,Home & Kitchen,4.0,2511.57,10046.28,2024-03-14,Credit Card,Delivered,Lucknow
+ORD01744,CUST0185,Bedsheet King,Home & Kitchen,4.0,2283.49,9133.96,2024-04-13,Credit Card,Delivered,Bengaluru
+ORD01967,CUST0196,Mechanical Keyboard,Electronics,1.0,1898.0,1898.0,2024-09-06,Debit Card,Delivered,Bengaluru
+ORD01838,CUST0140,Face Moisturizer,Beauty,,269.21,538.42,2024-01-21,Credit Card,Delivered,Jaipur
+ORD01878,CUST0282,Coffee Maker,Home & Kitchen,2.0,3239.14,6478.28,2024-02-13,Cash on Delivery,Delivered,Mumbai
+ORD01619,CUST0079,Sports Shorts,Clothing,1.0,1868.08,1868.08,2024-01-18,UPI,Delivered,Mumbai
+ORD01177,CUST0232,Skipping Rope,Sports,1.0,243.84,243.84,2024-03-14,Cash on Delivery,Delivered,Ahmedabad
+ORD01676,CUST0231,Winter Jacket,Clothing,1.0,1970.42,1970.42,2024-06-29,Debit Card,Delivered,Hyderabad
+ORD01750,CUST0141,Water Bottle,Sports,3.0,1343.45,4030.35,2024-01-29,Debit Card,Shipped,Kolkata
+ORD01596,CUST0195,Running Shoes,Clothing,1.0,1133.88,1133.88,2024-04-18,Debit Card,Delivered,Bengaluru
+ORD01457,CUST0195,Men's T-Shirt,Clothing,2.0,1116.32,2232.64,2024-01-31,Net Banking,Delivered,Chennai
+ORD01529,CUST0267,Monitor 24-inch,Electronics,2.0,4405.38,8810.76,2024-11-16,Debit Card,Delivered,Chennai
+ORD01394,CUST0196,Water Purifier,Home & Kitchen,1.0,,940.99,2024-10-06,Cash on Delivery,Delivered,Hyderabad
+ORD01164,CUST0282,Mechanical Keyboard,Electronics,2.0,3604.48,7208.96,2024-04-23,Credit Card,Delivered,Bengaluru
+ORD01249,CUST0085,Face Moisturizer,Beauty,2.0,442.37,884.74,2024-07-15,Credit Card,Returned,Bengaluru
+ORD01645,CUST0062,Coffee Maker,home & kitchen,3.0,3247.8,9743.4,2024-06-27,Credit Card,Delivered,Ahmedabad
+ORD01943,CUST0145,Business Analytics,Books,3.0,263.97,791.91,2024-12-18,Cash on Delivery,Shipped,Pune
+ORD01680,CUST0195,Cotton Socks,Clothing,4.0,1967.59,7870.36,2024-06-12,Credit Card,Shipped,Bengaluru
+ORD01376,CUST0128,Running Shoes,Clothing,5.0,2400.41,12002.05,2024-06-09,Credit Card,Shipped,Jaipur
+ORD01413,CUST0205,Foundation Liquid,Beauty,5.0,452.22,2261.1,2024-04-24,Debit Card,Pending,Jaipur
+ORD01075,CUST0286,Monitor 24-inch,Electronics,2.0,1904.85,3809.7,2024-09-25,Credit Card,Delivered,Pune
+ORD01114,CUST0033,Dinner Set,Home & Kitchen,1.0,4677.43,4677.43,2024-07-20,UPI,Delivered,Lucknow
+ORD01579,CUST0173,Bluetooth Headphones,Electronics,2.0,4030.52,8061.04,2024-02-24,Credit Card,Delivered,Ahmedabad
+ORD01569,CUST0276,Lip Balm Set,Beauty,1.0,1087.37,1087.37,2024-01-17,Debit Card,Delivered,
+ORD01391,CUST0137,Running Shoes,Clothing,-1.0,1237.59,1237.59,2024-06-10,Debit Card,Delivered,Mumbai
+ORD01105,CUST0071,Dinner Set,Home & Kitchen,1.0,1436.17,1436.17,2024-08-18,Credit Card,Delivered,Chennai
+ORD01115,CUST0198,Cotton Socks,Clothing,1.0,1830.1,1830.1,2024-01-09,Debit Card,Delivered,Pune
+ORD01418,CUST0134,Webcam HD,Electronics,2.0,7418.35,14836.7,2024-07-26,Cash on Delivery,Shipped,Lucknow
+ORD01991,CUST0274,Sunscreen SPF50,Beauty,4.0,1287.3,5149.2,2024-04-25,Cash on Delivery,Pending,Mumbai
+ORD01458,CUST0090,Towel Set,Home & Kitchen,1.0,3799.59,3799.59,2024-07-03,UPI,Pending,
+ORD01410,CUST0143,Mechanical Keyboard,Electronics,2.0,0.0,4510.28,2024-09-22,Debit Card,Cancelled,Pune
+ORD01093,CUST0136,Winter Jacket,Clothing,2.0,2158.13,4316.26,2024-12-24,UPI,Delivered,Bengaluru
+ORD01573,CUST0113,Resistance Bands,Sports,1.0,2094.81,2094.81,2024-01-19,Debit Card,Cancelled,Kolkata
+ORD01090,CUST0203,USB-C Hub,Electronics,1.0,4242.83,4242.83,2024-10-14,Credit Card,Delivered,
+ORD01337,CUST0108,Face Moisturizer,Beauty,2.0,419.79,839.58,2024-03-08,UPI,Delivered,Chennai
+ORD01981,CUST0074,Winter Jacket,Clothing,1.0,706.86,706.86,2024-08-31,UPI,Cancelled,Delhi
+ORD01935,CUST0070,Hair Serum,Beauty,1.0,1066.49,1066.49,2024-11-02,Credit Card,Delivered,Mumbai
+ORD01947,CUST0077,Power Bank 20000mAh,Electronics,1.0,6044.42,6044.42,2024-05-22,UPI,Pending,Pune
+ORD01616,CUST0127,Winter Jacket,Clothing,1.0,814.3,814.3,2024-12-01,Debit Card,Pending,Lucknow
+ORD01604,CUST0216,Coffee Maker,Home & Kitchen,2.0,3515.15,7030.3,2024-10-23,UPI,Cancelled,Hyderabad
+ORD01622,CUST0243,Mixer Grinder,Home & Kitchen,2.0,3915.99,7831.98,2024-12-07,Credit Card,Pending,Pune
+ORD01095,CUST0127,Denim Jeans,Clothing,1.0,1607.48,1607.48,2024-06-07,Cash on Delivery,Shipped,Ahmedabad
+ORD01012,CUST0016,Power Bank 20000mAh,Electronics,1.0,,7755.38,2024-06-22,Debit Card,Delivered,Delhi
+ORD01397,CUST0114,Running Shoes,Clothing,3.0,2282.94,6848.82,2024-03-13,Credit Card,Shipped,Bengaluru
+ORD01542,CUST0071,Leadership Mindset,Books,3.0,401.81,1205.43,2024-01-26,Credit Card,Delivered,Chennai
+ORD01044,CUST0194,Mechanical Keyboard,Electronics,3.0,1040.57,3121.71,2024-01-22,Credit Card,Cancelled,Ahmedabad
+ORD01043,CUST0064,Business Analytics,Books,1.0,363.28,363.28,2024-08-08,Credit Card,Delivered,Bengaluru
+ORD01330,CUST0136,Water Bottle,Sports,3.0,601.03,1803.09,2024-04-02,Debit Card,Shipped,Delhi
+ORD01168,CUST0217,Bluetooth Headphones,Electronics,-2.0,6232.54,6232.54,2024-11-18,Credit Card,Delivered,Chennai
+ORD01417,CUST0060,Bluetooth Headphones,Electronics,2.0,1459.14,2918.28,2024-03-09,Credit Card,Delivered,Jaipur
+ORD01889,CUST0278,Denim Jeans,Clothing,3.0,441.15,1323.45,2024-01-22,Credit Card,Delivered,Kolkata
+ORD01936,CUST0036,Laptop Stand,Electronics,1.0,3309.84,3309.84,2024-02-16,Debit Card,Returned,Mumbai
+ORD01768,CUST0245,Dumbbells 5kg,Sports,4.0,1929.5,7718.0,2024-07-08,UPI,Delivered,Lucknow
+ORD01101,CUST0299,Face Moisturizer,Beauty,4.0,213.71,854.84,2024-10-22,UPI,Pending,Hyderabad
+ORD01427,CUST0224,Monitor 24-inch,Electronics,1.0,2433.54,2433.54,2024-01-04,Debit Card,Delivered,Lucknow
+ORD01895,CUST0186,Mechanical Keyboard,Electronics,4.0,5456.82,21827.28,2024-11-15,Net Banking,Delivered,Ahmedabad
+ORD01976,CUST0226,Mechanical Keyboard,Electronics,1.0,624.73,624.73,2024-01-24,UPI,Delivered,Pune
+ORD01695,CUST0265,Mixer Grinder,Home & Kitchen,2.0,3251.58,6503.16,2024-12-21,Debit Card,Shipped,Delhi
+ORD01623,CUST0059,Men's T-Shirt,Clothing,1.0,1080.44,1080.44,2024-01-31,Cash on Delivery,Delivered,Hyderabad
+ORD01258,CUST0250,Face Moisturizer,Beauty,1.0,928.65,928.65,2024-12-05,Credit Card,Delivered,Bengaluru
+ORD01336,CUST0145,Denim Jeans,Clothing,4.0,988.29,3953.16,2024-07-02,Credit Card,Cancelled,Chennai
+ORD01016,CUST0259,Towel Set,Home & Kitchen,1.0,4574.12,4574.12,2024-07-28,Credit Card,Returned,Delhi
+ORD01836,CUST0156,USB-C Hub,Electronics,2.0,4135.73,8271.46,2024-12-26,Net Banking,Delivered,Jaipur
+ORD01325,CUST0005,Skipping Rope,Sports,3.0,1620.48,4861.44,2024-12-02,Credit Card,Delivered,Jaipur
+ORD01993,CUST0163,Cotton Socks,Clothing,3.0,2477.72,7433.16,2024-07-19,Debit Card,Delivered,Delhi
+ORD01223,CUST0099,Coffee Maker,Home & Kitchen,2.0,3735.38,7470.76,2024-12-06,Net Banking,Pending,Pune
+ORD01180,CUST0116,Dinner Set,Home & Kitchen,1.0,439.24,439.24,2024-08-18,Credit Card,Delivered,Kolkata
+ORD01999,CUST0148,Bedsheet King,Home & Kitchen,1.0,1451.5,1451.5,2024-07-22,Debit Card,Delivered,Kolkata
+ORD01522,CUST0229,Mixer Grinder,Home & Kitchen,1.0,,1100.5,2024-12-22,Credit Card,Delivered,Lucknow
+ORD01023,CUST0230,USB-C Hub,Electronics,2.0,6414.83,12829.66,2024-05-21,Cash on Delivery,Delivered,Bengaluru
+ORD01357,CUST0288,Cotton Socks,Clothing,1.0,1228.26,1228.26,2024-09-11,Credit Card,Delivered,Mumbai
+ORD01970,CUST0254,Sports Shorts,Clothing,2.0,1299.16,2598.32,2024-02-21,Credit Card,Pending,Mumbai
+ORD01874,CUST0211,Dinner Set,Home & Kitchen,1.0,324.25,324.25,2024-02-11,Net Banking,Returned,Lucknow
+ORD01341,CUST0259,Mixer Grinder,Home & Kitchen,2.0,3227.15,6454.3,2024-08-02,Debit Card,Shipped,Delhi
+ORD01432,CUST0098,Data Science Handbook,Books,2.0,215.18,430.36,2024-06-22,UPI,Shipped,Jaipur
+ORD01560,CUST0011,Towel Set,Home & Kitchen,1.0,2614.77,2614.77,2024-11-08,UPI,Returned,Chennai
+ORD01846,CUST0166,Non-stick Pan,Home & Kitchen,2.0,4799.28,9598.56,2024-08-31,Net Banking,Delivered,Jaipur
+ORD01204,CUST0243,Laptop Stand,Electronics,1.0,3871.81,3871.81,2024-01-03,Credit Card,Pending,Chennai
+ORD01712,CUST0157,Data Science Handbook,Books,4.0,435.78,1743.12,00-00-0000,Cash on Delivery,,
+ORD01094,CUST0072,Laptop Stand,Electronics,1.0,6440.49,6440.49,2024-09-09,Debit Card,Delivered,Mumbai
+ORD01963,CUST0211,Resistance Bands,Sports,3.0,2747.86,8243.58,invalid,Credit Card,Delivered,Ahmedabad
+ORD01069,CUST0274,Sports Shorts,Clothing,3.0,2078.42,6235.26,2024-01-14,Credit Card,Delivered,Ahmedabad
+ORD01793,CUST0292,Python Programming,Books,2.0,224.06,448.12,2024-04-01,Net Banking,Delivered,Bengaluru
+ORD01285,CUST0127,Dinner Set,Home & Kitchen,1.0,3803.11,3803.11,2024-06-12,UPI,Returned,Bengaluru
+ORD01817,CUST0120,Dinner Set,Home & Kitchen,1.0,4150.06,4150.06,2024-04-13,Cash on Delivery,Pending,Kolkata
+ORD01435,CUST0224,Mixer Grinder,Home & Kitchen,2.0,3644.55,7289.1,2024-03-30,Debit Card,Delivered,Kolkata
+ORD01154,CUST0124,Water Purifier,Home & Kitchen,1.0,2243.73,2243.73,2024-10-12,Net Banking,Cancelled,Lucknow
+ORD01076,CUST0113,Non-stick Pan,Home & Kitchen,2.0,2135.13,4270.26,2024-11-21,Cash on Delivery,Delivered,Ahmedabad
+ORD01742,CUST0152,Face Moisturizer,Beauty,3.0,987.5,2962.5,2024-05-16,UPI,Delivered,Hyderabad
+ORD01447,CUST0260,Mechanical Keyboard,Electronics,1.0,1669.97,1669.97,2024-02-10,UPI,Pending,Kolkata
+ORD01189,CUST0031,Lip Balm Set,Beauty,1.0,716.31,716.31,2024-11-29,Credit Card,Delivered,Lucknow
+ORD01272,CUST0258,Resistance Bands,Sports,1.0,1100.49,1100.49,2024-01-14,UPI,Delivered,Pune
+ORD01237,CUST0026,Business Analytics,Books,3.0,570.01,1710.03,2024-05-02,Debit Card,Delivered,Kolkata
+ORD01488,CUST0024,Mechanical Keyboard,Electronics,1.0,6541.44,6541.44,2024-04-08,UPI,Delivered,Mumbai
+ORD01118,CUST0271,Sunscreen SPF50,Beauty,1.0,1250.33,1250.33,2024-10-20,Credit Card,Delivered,Delhi
+ORD01831,CUST0292,Leadership Mindset,Books,4.0,517.64,2070.56,2024-11-17,Net Banking,Delivered,Jaipur
+ORD01513,CUST0069,Monitor 24-inch,Electronics,1.0,2673.37,2673.37,2024-03-08,Credit Card,Delivered,Pune
+ORD01931,CUST0075,Coffee Maker,Home & Kitchen,,,1375.96,2024-08-12,Debit Card,Delivered,Bengaluru
+ORD01602,CUST0195,Python Programming,Books,5.0,527.17,2635.85,2024-02-10,UPI,Delivered,Bengaluru
+ORD01127,CUST0151,Water Purifier,Home & Kitchen,1.0,546.71,546.71,2024-08-29,UPI,Delivered,Delhi
+ORD01117,CUST0240,Water Purifier,Home & Kitchen,2.0,3690.58,7381.16,2024-03-28,UPI,Shipped,Jaipur
+ORD01474,CUST0262,Machine Learning Guide,Books,1.0,688.48,688.48,2024-02-10,UPI,Delivered,Ahmedabad
+ORD01704,CUST0252,Dinner Set,Home & Kitchen,1.0,1109.37,1109.37,2024-03-01,Credit Card,Shipped,Chennai
+ORD01058,CUST0195,Business Analytics,Books,3.0,313.8,941.4,2024-11-04,Debit Card,Delivered,Bengaluru
+ORD01685,CUST0094,Python Programming,Books,1.0,,784.3,2024-09-08,UPI,Delivered,Pune
+ORD01925,CUST0213,Denim Jeans,Clothing,1.0,1154.62,1154.62,2024-11-12,Debit Card,Cancelled,Ahmedabad
+ORD01370,CUST0022,Finance Basics,Books,2.0,236.24,472.48,2024-04-01,Debit Card,Shipped,Jaipur
+ORD01269,CUST0026,Denim Jeans,Clothing,2.0,279.69,559.38,2024-05-05,Debit Card,Cancelled,Hyderabad
+ORD01047,CUST0151,Monitor 24-inch,Electronics,1.0,4429.72,4429.72,2024-06-07,Credit Card,Pending,Pune
+ORD01350,CUST0171,USB-C Hub,Electronics,4.0,1277.85,5111.4,2024-09-04,UPI,Delivered,Lucknow
+ORD01196,CUST0122,Laptop Stand,Electronics,1.0,5432.01,5432.01,2024-11-27,Credit Card,Returned,Lucknow
+ORD01433,CUST0131,Monitor 24-inch,Electronics,1.0,7734.28,7734.28,2024-02-16,Debit Card,Shipped,Bengaluru
+ORD01847,CUST0129,Dumbbells 5kg,Sports,1.0,2894.65,2894.65,2024-04-15,Net Banking,Pending,Chennai
+ORD01979,CUST0234,Cotton Socks,Clothing,1.0,586.52,586.52,2024-02-29,UPI,Delivered,Kolkata
+ORD01264,CUST0297,Water Purifier,Home & Kitchen,1.0,745.21,745.21,2024-03-12,Credit Card,Pending,Delhi
+ORD01444,CUST0161,Men's T-Shirt,Clothing,1.0,1811.88,1811.88,2024-05-27,Debit Card,Shipped,Delhi
+ORD01686,CUST0250,Mechanical Keyboard,Electronics,2.0,3481.68,6963.36,2024-08-06,Debit Card,Delivered,Pune
+ORD01305,CUST0005,USB-C Hub,Electronics,2.0,1611.5,3223.0,2024-02-21,UPI,Delivered,Delhi
+ORD01342,CUST0251,Women's Kurta,Clothing,2.0,1344.8,2689.6,2024-05-14,Cash on Delivery,Delivered,Jaipur
+ORD01644,CUST0155,Bedsheet King,Home & Kitchen,1.0,1424.49,1424.49,2024-12-20,UPI,Shipped,Mumbai
+ORD01982,CUST0210,Towel Set,Home & Kitchen,2.0,725.08,1450.16,2024-04-24,UPI,Shipped,Lucknow
+ORD01150,CUST0186,Cycling Gloves,Sports,1.0,2343.37,2343.37,2024-12-04,UPI,Returned,Ahmedabad
+ORD01125,CUST0175,Power Bank 20000mAh,Electronics,2.0,,10839.58,2024-04-19,Net Banking,Delivered,Chennai
+ORD01888,CUST0001,Towel Set,Home & Kitchen,1.0,3118.88,3118.88,2024-10-23,Cash on Delivery,Shipped,Lucknow
+ORD01835,CUST0240,Business Analytics,Books,2.0,529.8,1059.6,2024-08-13,UPI,Delivered,Kolkata
+ORD01051,CUST0036,Dinner Set,Home & Kitchen,2.0,4361.96,8723.92,2024-03-18,Credit Card,Delivered,Kolkata
+ORD01354,CUST0227,Bedsheet King,Home & Kitchen,3.0,998.68,2996.04,2024-11-09,Credit Card,Returned,Mumbai
+ORD01941,CUST0137,Webcam HD,Electronics,2.0,6256.59,12513.18,2024-02-22,UPI,Cancelled,Jaipur
+ORD01143,CUST0277,Hair Serum,Beauty,2.0,1232.17,2464.34,2024-09-19,Debit Card,Delivered,Ahmedabad
+ORD01471,CUST0227,Bluetooth Headphones,Electronics,3.0,500.69,1502.07,2024-03-10,Credit Card,Delivered,Pune
+ORD01400,CUST0180,Data Science Handbook,Books,2.0,215.03,430.06,2024-04-09,Debit Card,Delivered,Pune
+ORD01636,CUST0160,USB-C Hub,Electronics,1.0,4166.71,4166.71,2024-11-12,Credit Card,Shipped,Mumbai
+ORD01321,CUST0225,Winter Jacket,Clothing,3.0,1673.37,5020.11,2024-05-13,Credit Card,,Hyderabad
+ORD01020,CUST0280,Mechanical Keyboard,Electronics,5.0,4583.49,22917.45,2024-07-02,Debit Card,Delivered,Mumbai
+ORD01923,CUST0261,Monitor 24-inch,Electronics,1.0,5036.36,5036.36,2024-06-17,Net Banking,Delivered,Lucknow
+ORD01802,CUST0089,Monitor 24-inch,Electronics,1.0,881.92,881.92,2024-11-18,,Pending,Ahmedabad
+ORD01821,CUST0059,Finance Basics,Books,4.0,674.06,2696.24,2024-02-13,Debit Card,Returned,Pune
+ORD01408,CUST0143,Foundation Liquid,Beauty,3.0,1057.83,3173.49,2024-03-12,Credit Card,Delivered,Kolkata
+ORD01538,CUST0172,Men's T-Shirt,Clothing,4.0,2328.5,9314.0,2024-04-23,UPI,Delivered,Chennai
+ORD01631,CUST0084,Sports Shorts,Clothing,1.0,606.22,606.22,2024-07-15,Credit Card,Delivered,Chennai
+ORD01039,CUST0136,Formal Shirt,Clothing,1.0,562.04,562.04,2024-06-15,UPI,Cancelled,Lucknow
+ORD01176,CUST0265,Mixer Grinder,Home & Kitchen,1.0,518.84,518.84,2024-05-23,,Delivered,Jaipur
+ORD01246,CUST0110,Eye Liner,Beauty,3.0,1340.98,4022.94,2024-01-16,Net Banking,Delivered,Pune
+ORD01954,CUST0279,Running Shoes,Clothing,3.0,1948.75,5846.25,2024-09-03,UPI,Delivered,Mumbai
+ORD01678,CUST0238,Resistance Bands,Sports,1.0,554.13,554.13,2024-04-04,UPI,Delivered,Chennai
+ORD01766,CUST0027,Webcam HD,Electronics,2.0,2659.71,5319.42,2024-03-07,Net Banking,Shipped,Ahmedabad
+ORD01871,CUST0054,Face Moisturizer,Beauty,2.0,1488.73,2977.46,2024-09-29,Credit Card,Delivered,Lucknow
+ORD01155,CUST0291,Bedsheet King,Home & Kitchen,1.0,2912.5,2912.5,2024-06-25,UPI,Delivered,Ahmedabad
+ORD01288,CUST0042,Monitor 24-inch,Electronics,1.0,4198.11,4198.11,2024-10-06,Credit Card,Delivered,Ahmedabad
+ORD01763,CUST0226,Water Purifier,Home & Kitchen,5.0,4562.17,22810.85,2024-04-11,UPI,Delivered,Hyderabad
+ORD01570,CUST0280,Power Bank 20000mAh,Electronics,,6720.93,6720.93,2024-09-25,Credit Card,Delivered,Hyderabad
+ORD01755,CUST0065,Laptop Stand,Electronics,1.0,6945.63,6945.63,2024-08-12,Net Banking,Pending,Pune
+ORD01018,CUST0288,Cycling Gloves,Sports,1.0,2848.73,2848.73,2024-03-20,UPI,Pending,Ahmedabad
+ORD01128,CUST0223,Dumbbells 5kg,Sports,4.0,1339.34,5357.36,2024-08-31,,Pending,
+ORD01323,CUST0155,Finance Basics,Books,1.0,473.29,473.29,2024-08-02,Debit Card,Delivered,Ahmedabad
+ORD01256,CUST0217,Men's T-Shirt,Clothing,1.0,2436.89,2436.89,2024-05-23,Credit Card,Delivered,Delhi
+ORD01668,CUST0248,Winter Jacket,Clothing,1.0,1358.2,1358.2,2024-01-28,Debit Card,Delivered,
+ORD01980,CUST0008,Wireless Mouse,Electronics,5.0,1291.02,6455.1,2024-01-15,Cash on Delivery,Delivered,Bengaluru
+ORD01191,CUST0035,Water Purifier,Home & Kitchen,1.0,1831.67,1831.67,2024-07-20,Credit Card,Delivered,Pune
+ORD01116,CUST0196,Winter Jacket,Clothing,2.0,2032.54,4065.08,2024-12-18,UPI,Delivered,Mumbai
+ORD01627,CUST0132,Monitor 24-inch,Electronics,2.0,2498.27,4996.54,2024-07-19,Credit Card,Shipped,Lucknow
+ORD01607,CUST0241,Power Bank 20000mAh,Electronics,2.0,4836.06,9672.12,2024-12-02,Net Banking,Shipped,Hyderabad
+ORD01181,CUST0033,Denim Jeans,Clothing,2.0,1763.3,3526.6,2024-02-13,Credit Card,Delivered,Lucknow
+ORD01302,CUST0235,Laptop Stand,Electronics,1.0,1446.39,1446.39,2024-12-15,Credit Card,Pending,Ahmedabad
+ORD01771,CUST0206,Men's T-Shirt,Clothing,2.0,212.33,424.66,2024-07-14,Cash on Delivery,Shipped,Hyderabad
+ORD01724,CUST0139,Towel Set,Home & Kitchen,2.0,2672.54,5345.08,2024-10-03,Credit Card,Pending,Jaipur
+ORD01735,CUST0111,Dumbbells 5kg,Sports,3.0,1591.46,4774.38,2024-02-08,Credit Card,Delivered,Jaipur
+ORD01696,CUST0098,Webcam HD,Electronics,1.0,1721.35,1721.35,2024-06-12,Net Banking,Delivered,Kolkata
+ORD01791,CUST0220,Dumbbells 5kg,Sports,1.0,1664.66,1664.66,2024-01-25,Credit Card,Delivered,Jaipur
+ORD01518,CUST0227,Towel Set,Home & Kitchen,3.0,510.92,1532.76,2024-04-12,Credit Card,Shipped,Pune
+ORD02000,CUST0117,Monitor 24-inch,Electronics,5.0,6318.87,31594.35,2024-12-09,UPI,Cancelled,Delhi
+ORD01046,CUST0283,,Sports,2.0,2443.7,4887.4,2024-12-19,Credit Card,Pending,Pune
+ORD01922,CUST0150,Sports Shorts,Clothing,2.0,1355.69,2711.38,2024-05-21,Credit Card,Delivered,Chennai
+ORD01158,CUST0249,Laptop Stand,Electronics,1.0,2412.47,2412.47,2024-02-10,Net Banking,Delivered,Kolkata
+ORD01756,CUST0252,Men's T-Shirt,Clothing,1.0,830.28,830.28,2024-09-08,UPI,Cancelled,Kolkata
+ORD01172,CUST0160,Webcam HD,Electronics,1.0,6614.11,6614.11,2024-07-22,Debit Card,Delivered,Delhi
+ORD01017,CUST0014,Cotton Socks,Clothing,1.0,467.08,467.08,2024-10-02,Debit Card,Delivered,Bengaluru
+ORD01512,CUST0234,Laptop Stand,Electronics,2.0,1648.98,3297.96,2024-07-20,UPI,Delivered,Kolkata
+ORD01049,CUST0296,Sunscreen SPF50,Beauty,1.0,243.93,243.93,2024-03-29,Credit Card,Pending,Lucknow
+ORD01987,CUST0174,Laptop Stand,Electronics,1.0,1299.39,1299.39,2024-08-23,Credit Card,Returned,Pune
+ORD01853,CUST0138,Towel Set,Home & Kitchen,2.0,2690.52,5381.04,2024-02-28,Credit Card,Delivered,Hyderabad
+ORD01516,CUST0287,Business Analytics,Books,2.0,595.08,1190.16,2024-02-27,Debit Card,Delivered,Ahmedabad
+ORD01697,CUST0044,Webcam HD,Electronics,2.0,3208.73,6417.46,2024-07-01,Credit Card,Delivered,Mumbai
+ORD01481,CUST0048,Face Moisturizer,Beauty,3.0,270.75,812.25,2024-05-07,UPI,Delivered,Ahmedabad
+ORD01284,CUST0292,Men's T-Shirt,Clothing,1.0,618.79,618.79,2024-11-09,UPI,Delivered,Chennai
+ORD01746,CUST0155,Lip Balm Set,Beauty,3.0,942.24,2826.72,2024-07-27,UPI,Cancelled,Pune
+ORD01665,CUST0268,Resistance Bands,Sports,2.0,2846.9,5693.8,2024-01-27,Debit Card,Delivered,Delhi
+ORD01226,CUST0230,Women's Kurta,Clothing,1.0,2337.7,2337.7,2024-08-21,Cash on Delivery,Delivered,Mumbai
+ORD01027,CUST0217,Finance Basics,Books,2.0,488.94,977.88,2024-01-16,Cash on Delivery,Pending,Mumbai
+ORD01794,CUST0031,Winter Jacket,Clothing,2.0,922.08,1844.16,2024-12-09,UPI,Delivered,Kolkata
+ORD01438,CUST0276,Running Shoes,Clothing,1.0,1132.54,1132.54,2024-01-08,Cash on Delivery,Delivered,Delhi
+ORD01965,CUST0163,Sunscreen SPF50,Beauty,1.0,476.63,476.63,2024-07-22,Credit Card,Delivered,Hyderabad
+ORD01365,CUST0299,Power Bank 20000mAh,Electronics,2.0,532.53,1065.06,2024-10-10,Net Banking,Delivered,Ahmedabad
+ORD01230,CUST0143,Python Programming,Books,1.0,792.3,792.3,2024-03-08,Credit Card,Delivered,Kolkata
+ORD01038,CUST0177,,Electronics,2.0,1021.89,2043.78,2024-01-16,UPI,Delivered,Delhi
+ORD01981,CUST0074,Winter Jacket,Clothing,1.0,706.86,706.86,2024-08-31,UPI,Cancelled,Delhi
+ORD01375,CUST0108,Water Purifier,Home & Kitchen,3.0,2701.33,8103.99,2024-12-22,UPI,Delivered,Hyderabad
+ORD01470,CUST0239,Dinner Set,Home & Kitchen,1.0,2563.76,2563.76,2024-02-15,Debit Card,Delivered,Kolkata
+ORD01983,CUST0080,Bedsheet King,Home & Kitchen,2.0,4577.79,9155.58,2024-07-14,Cash on Delivery,Delivered,Jaipur
+ORD01914,CUST0209,Finance Basics,Books,1.0,499.44,499.44,2024-01-12,UPI,Cancelled,Lucknow
+ORD01715,CUST0243,Winter Jacket,Clothing,3.0,1780.21,5340.63,2024-04-25,Debit Card,Returned,Jaipur
+ORD01737,CUST0142,Power Bank 20000mAh,Electronics,1.0,3703.29,3703.29,2024-02-09,Debit Card,Delivered,Hyderabad
+ORD01195,CUST0264,Cycling Gloves,Sports,1.0,1371.24,1371.24,2024-07-03,UPI,Cancelled,Jaipur
+ORD01867,CUST0179,Sunscreen SPF50,Beauty,2.0,427.96,855.92,2024-07-04,Credit Card,Cancelled,Mumbai
+ORD01877,CUST0206,Dinner Set,Home & Kitchen,3.0,4212.83,12638.49,2024-09-23,Cash on Delivery,Pending,Chennai
+ORD01504,CUST0113,Cotton Socks,Clothing,1.0,1229.25,1229.25,2024-01-18,UPI,Delivered,Hyderabad
+ORD01985,CUST0241,Python Programming,Books,1.0,522.35,522.35,2024-06-09,UPI,Delivered,Ahmedabad
+ORD01843,CUST0042,Mechanical Keyboard,Electronics,2.0,1169.86,2339.72,2024-11-15,Debit Card,Cancelled,Ahmedabad
+ORD01580,CUST0208,Power Bank 20000mAh,Electronics,1.0,5122.37,5122.37,2024-04-11,Credit Card,Cancelled,Jaipur
+ORD01984,CUST0039,Webcam HD,Electronics,1.0,1367.67,1367.67,2024-02-15,UPI,Returned,Pune
+ORD01163,CUST0244,Formal Shirt,Clothing,2.0,1379.48,2758.96,2024-02-20,UPI,Delivered,Kolkata
+ORD01713,CUST0298,Bedsheet King,Home & Kitchen,5.0,830.37,4151.85,2024-03-04,Credit Card,Delivered,Kolkata
+ORD01153,CUST0030,Mechanical Keyboard,Electronics,3.0,4831.06,14493.18,2024-06-13,Debit Card,Delivered,Chennai
+ORD01930,CUST0283,Hair Serum,Beauty,1.0,152.88,152.88,2024-12-29,Debit Card,Shipped,Bengaluru
+ORD01717,CUST0272,Coffee Maker,Home & Kitchen,2.0,2162.94,4325.88,2024-12-12,Credit Card,Delivered,Delhi
+ORD01844,CUST0021,Men's T-Shirt,Clothing,4.0,2403.58,9614.32,2024-05-22,Net Banking,Shipped,Delhi
+ORD01112,CUST0082,Formal Shirt,Clothing,1.0,1483.01,1483.01,2024-03-14,UPI,Delivered,Chennai
+ORD01227,CUST0072,Dumbbells 5kg,Sports,1.0,2670.01,2670.01,2024-05-20,UPI,Delivered,Delhi
+ORD01760,CUST0146,Finance Basics,Books,3.0,646.06,1938.18,2024-12-17,UPI,Delivered,Ahmedabad
+ORD01104,CUST0113,Denim Jeans,Clothing,2.0,918.94,1837.88,2024-06-25,Credit Card,Delivered,Ahmedabad
+ORD01422,CUST0020,Women's Kurta,Clothing,2.0,238.09,476.18,2024-09-15,Net Banking,Shipped,Ahmedabad
+ORD01420,CUST0298,Sunscreen SPF50,Beauty,1.0,407.11,407.11,2024-03-14,Net Banking,Delivered,Lucknow
+ORD01762,CUST0246,Monitor 24-inch,Electronics,3.0,7585.68,22757.04,2024-04-24,Cash on Delivery,Cancelled,Mumbai
+ORD01587,CUST0289,Bedsheet King,Home & Kitchen,1.0,,2965.89,2024-12-21,Credit Card,Shipped,Chennai
+ORD01899,CUST0105,Coffee Maker,Home & Kitchen,1.0,1086.94,1086.94,2024-11-26,Debit Card,Delivered,Jaipur
+ORD01673,CUST0126,Mechanical Keyboard,Electronics,2.0,3650.97,7301.94,2024-01-11,Credit Card,Delivered,Hyderabad
+ORD01120,CUST0284,USB-C Hub,Electronics,2.0,,8780.24,2024-12-05,Debit Card,Delivered,Kolkata
+ORD01054,CUST0149,Non-stick Pan,Home & Kitchen,3.0,2413.75,7241.25,2024-11-29,Debit Card,Delivered,Chennai
+ORD01152,CUST0123,Bluetooth Headphones,Electronics,1.0,3516.99,3516.99,2024-04-21,Credit Card,Returned,Mumbai
+ORD01404,CUST0013,Sunscreen SPF50,Beauty,,1347.82,1347.82,2024-11-16,UPI,Cancelled,Delhi
+ORD01959,CUST0123,Business Analytics,Books,3.0,651.33,1953.99,2024-06-27,UPI,Shipped,Jaipur
+ORD01208,CUST0098,Business Analytics,Books,1.0,226.61,226.61,2024-04-03,UPI,Delivered,Pune
+ORD01659,CUST0222,Python Programming,Books,1.0,426.7,426.7,2024-12-22,Debit Card,Delivered,Delhi
+ORD01856,CUST0090,Denim Jeans,Clothing,2.0,1998.65,3997.3,2024-08-04,Debit Card,Delivered,Jaipur
+ORD01774,CUST0296,Mixer Grinder,Home & Kitchen,4.0,3814.77,15259.08,2024-05-24,UPI,Pending,Hyderabad
+ORD01009,CUST0045,Mixer Grinder,Home & Kitchen,2.0,3485.49,6970.98,2024-12-03,UPI,Cancelled,Bengaluru
+ORD01820,CUST0218,Water Bottle,Sports,2.0,2865.15,5730.3,2024-12-15,Cash on Delivery,Delivered,
+ORD01037,CUST0184,Webcam HD,Electronics,1.0,717.15,717.15,2024-06-07,Debit Card,Delivered,Pune
+ORD01453,CUST0284,Skipping Rope,Sports,2.0,1224.59,2449.18,2024-04-17,UPI,Delivered,Ahmedabad
+ORD01652,CUST0036,Laptop Stand,Electronics,2.0,1051.47,2102.94,2024-01-28,Credit Card,Cancelled,Ahmedabad
+ORD01254,CUST0233,Sunscreen SPF50,Beauty,1.0,108.93,108.93,2024-04-29,Debit Card,Pending,Jaipur
+ORD01304,CUST0038,Winter Jacket,Clothing,4.0,1395.28,5581.12,2024-01-07,UPI,Pending,Lucknow
+ORD01758,CUST0007,Dinner Set,Home & Kitchen,1.0,2430.33,2430.33,2024-01-27,UPI,Pending,Bengaluru
+ORD01572,CUST0250,Cotton Socks,Clothing,2.0,1884.61,3769.22,2024-06-16,UPI,Delivered,Bengaluru
+ORD01624,CUST0289,Cotton Socks,Clothing,1.0,2452.67,2452.67,2024-07-20,UPI,Delivered,Bengaluru
+ORD01721,CUST0170,Women's Kurta,Clothing,2.0,776.59,1553.18,2024-11-17,Credit Card,Shipped,Bengaluru
+ORD01731,CUST0062,Webcam HD,Electronics,,4943.99,19775.96,2024-02-03,Credit Card,Delivered,Hyderabad
+ORD01263,CUST0030,Men's T-Shirt,Clothing,1.0,1757.52,1757.52,2024-03-30,Cash on Delivery,Cancelled,
+ORD01611,CUST0180,Air Fryer,Home & Kitchen,3.0,4236.79,12710.37,2024-07-30,Credit Card,Delivered,Ahmedabad
+ORD01298,CUST0136,Wireless Mouse,Electronics,1.0,1142.8,1142.8,2024-10-04,Cash on Delivery,Delivered,Ahmedabad
+ORD01415,CUST0170,Water Purifier,Home & Kitchen,1.0,1006.13,1006.13,2024-11-04,UPI,Delivered,Delhi
+ORD01151,CUST0158,Sunscreen SPF50,Beauty,1.0,388.51,388.51,2024-01-18,UPI,Shipped,Kolkata
+ORD01800,CUST0081,Sunscreen SPF50,Beauty,3.0,220.53,661.59,2024-03-16,Debit Card,Delivered,Kolkata
+ORD01641,CUST0039,Leadership Mindset,Books,1.0,257.25,257.25,2024-10-24,Credit Card,Pending,Mumbai
+ORD01902,CUST0068,Running Shoes,Clothing,4.0,1514.15,6056.6,2024-07-10,UPI,Delivered,Hyderabad
+ORD01551,CUST0170,Cotton Socks,Clothing,,1450.05,1450.05,2024-09-09,Credit Card,Shipped,Chennai
+ORD01803,CUST0283,Leadership Mindset,Books,,625.2,3126.0,2024-01-19,Debit Card,Delivered,Kolkata
+ORD01489,CUST0126,Bluetooth Headphones,Electronics,1.0,4139.77,4139.77,2024-05-30,UPI,Delivered,Jaipur
+ORD01711,CUST0125,Men's T-Shirt,Clothing,1.0,,2439.23,2024-04-19,Net Banking,Delivered,Jaipur
+ORD01148,CUST0010,Monitor 24-inch,Electronics,2.0,4466.32,8932.64,2024-04-24,UPI,Returned,Mumbai
+ORD01147,CUST0251,Hair Serum,Beauty,2.0,625.9,1251.8,2024-13-01,Credit Card,Cancelled,Jaipur
+ORD01732,CUST0275,Non-stick Pan,Home & Kitchen,3.0,2466.27,7398.81,2024-10-17,Cash on Delivery,Delivered,Jaipur
+ORD01945,CUST0297,Non-stick Pan,Home & Kitchen,2.0,1393.25,2786.5,2024-03-04,Credit Card,Delivered,Hyderabad
+ORD01751,CUST0024,Monitor 24-inch,Books ,1.0,4061.41,4061.41,2024-05-22,Debit Card,Shipped,Bengaluru
+ORD01660,CUST0186,Non-stick Pan,Home & Kitchen,1.0,3557.85,3557.85,2024-04-21,Debit Card,Delivered,Bengaluru
+ORD01349,CUST0002,Running Shoes,Clothing,2.0,1786.78,3573.56,2024-08-03,Credit Card,Shipped,Bengaluru
+ORD01464,CUST0156,Bluetooth Headphones,Electronics,1.0,1437.8,1437.8,2024-05-08,Credit Card,Delivered,Delhi
+ORD01326,CUST0284,Webcam HD,Electronics,2.0,5938.9,11877.8,2024-04-03,UPI,Delivered,Pune
+ORD01187,CUST0004,Webcam HD,Electronics,2.0,3658.27,7316.54,2024-02-09,Credit Card,Delivered,Pune
+ORD01124,CUST0137,Running Shoes,Clothing,4.0,2082.27,8329.08,2024-03-15,Credit Card,Returned,Hyderabad
+ORD01866,CUST0241,Webcam HD,Electronics,2.0,5604.16,11208.32,2024-04-08,Net Banking,Shipped,Delhi
+ORD01609,CUST0277,Face Moisturizer,Beauty,2.0,1138.0,2276.0,2024-10-29,UPI,Delivered,Bengaluru
+ORD01144,CUST0272,Winter Jacket,Clothing,1.0,1863.54,1863.54,2024-01-02,UPI,,Chennai
+ORD01974,CUST0170,Women's Kurta,Clothing,3.0,207.09,621.27,2024-07-24,Credit Card,Delivered,Bengaluru
+ORD01198,CUST0249,Water Purifier,Home & Kitchen,1.0,2395.16,2395.16,2024-12-13,UPI,Delivered,Lucknow
+ORD01610,CUST0027,Laptop Stand,Electronics,3.0,4136.89,12410.67,2024-01-17,Cash on Delivery,Returned,Pune
+ORD01280,CUST0035,Yoga Mat,Sports,3.0,2570.15,7710.45,2024-02-07,UPI,Shipped,Pune
+ORD01294,CUST0134,Sunscreen SPF50,Beauty,1.0,176.31,176.31,2024-02-14,Net Banking,Shipped,Hyderabad
+ORD01401,CUST0157,Air Fryer,Home & Kitchen,1.0,2958.09,2958.09,2024-06-10,Credit Card,Delivered,Ahmedabad
+ORD01123,CUST0275,Towel Set,Home & Kitchen,4.0,,7757.48,2024-05-20,Credit Card,Shipped,Hyderabad
+ORD01184,CUST0284,Running Shoes,Clothing,1.0,437.57,437.57,2024-10-10,UPI,Pending,Delhi
+ORD01203,CUST0296,Cotton Socks,Clothing,1.0,733.27,733.27,2024-04-04,UPI,Delivered,Bengaluru
+ORD01439,CUST0101,Leadership Mindset,Books,1.0,744.76,744.76,2024-05-21,UPI,Delivered,Chennai
+ORD01247,CUST0206,Wireless Mouse,Electronics,2.0,4221.11,8442.22,2024-01-29,Net Banking,Delivered,Kolkata
+ORD01416,CUST0015,Women's Kurta,Clothing,,1307.49,2614.98,2024-04-17,Credit Card,Pending,Lucknow
+ORD01788,CUST0231,Bedsheet King,Home & Kitchen,1.0,724.05,724.05,2024-07-07,Credit Card,Shipped,Lucknow
+ORD01946,CUST0251,Wireless Mouse,Electronics,1.0,949.42,949.42,2024-05-31,Credit Card,Delivered,Chennai
+ORD01919,CUST0061,Towel Set,Home & Kitchen,2.0,570.03,1140.06,2024-03-28,Net Banking,Delivered,Pune
+ORD01864,CUST0252,Hair Serum,Beauty,1.0,1041.14,1041.14,2024-07-11,Debit Card,Delivered,Lucknow
+ORD01900,CUST0137,Mechanical Keyboard,Electronics,2.0,4441.07,8882.14,2024-09-10,Credit Card,Delivered,Kolkata
+ORD01130,CUST0233,Face Moisturizer,Beauty,1.0,1378.52,1378.52,2024-03-31,Cash on Delivery,Delivered,Mumbai
+ORD01638,CUST0193,Wireless Mouse,Electronics,2.0,1356.35,2712.7,2024-11-11,Credit Card,Delivered,Chennai
+ORD01403,CUST0115,Towel Set,Home & Kitchen,1.0,1986.09,1986.09,2024-10-09,Credit Card,Shipped,Delhi
+ORD01810,CUST0150,Bedsheet King,Home & Kitchen,,4732.36,9464.72,2024-04-30,UPI,Returned,Chennai
+ORD01782,CUST0061,Eye Liner,Beauty,2.0,771.8,1543.6,2024-05-17,UPI,Delivered,Lucknow
+ORD01736,CUST0248,Running Shoes,Clothing,2.0,2050.59,4101.18,2024-02-17,Credit Card,Delivered,Lucknow
+ORD01926,CUST0248,Wireless Mouse,Electronics,-5.0,3451.63,13806.52,2024-05-02,Credit Card,Shipped,Bengaluru
+ORD01220,CUST0174,Men's T-Shirt,Clothing,3.0,2482.72,7448.16,2024-03-05,Credit Card,Shipped,Bengaluru
+ORD01642,CUST0125,Bedsheet King,Home & Kitchen,1.0,3955.01,3955.01,2024-09-06,Credit Card,Delivered,Delhi
+ORD01928,CUST0125,Mechanical Keyboard,Electronics,1.0,1074.0,1074.0,2024-06-15,Debit Card,Delivered,Ahmedabad
+ORD01897,CUST0227,Non-stick Pan,Home & Kitchen,2.0,3886.49,7772.98,2024-10-01,UPI,Delivered,Hyderabad
+ORD01957,CUST0165,Mechanical Keyboard,Electronics,4.0,4185.9,16743.6,2024-07-21,Debit Card,Delivered,Pune
+ORD01933,CUST0098,Python Programming,Books,1.0,590.3,590.3,2024-07-02,Credit Card,,Bengaluru
+ORD01625,CUST0112,Bedsheet King,Home & Kitchen,2.0,1326.42,2652.84,2024-08-14,Credit Card,Delivered,Hyderabad
+ORD01851,CUST0295,Python Programming,Books,1.0,549.41,549.41,2024-01-14,Credit Card,Delivered,Mumbai
+ORD01924,CUST0140,Coffee Maker,Home & Kitchen,3.0,1653.19,4959.57,2024-08-21,UPI,Shipped,Pune
+ORD01387,CUST0092,Women's Kurta,Clothing,1.0,2380.89,2380.89,2024-10-02,Credit Card,Delivered,Jaipur
+ORD01988,CUST0204,Hair Serum,Beauty,1.0,1051.97,1051.97,2024-05-25,UPI,Pending,Bengaluru
+ORD01510,CUST0128,Business Analytics,Books,1.0,721.87,721.87,2024-03-02,UPI,Pending,Chennai
+ORD01268,CUST0030,Machine Learning Guide,Books,2.0,169.16,338.32,2024-03-29,Credit Card,Delivered,Pune
+ORD01961,CUST0197,Men's T-Shirt,Clothing,2.0,1804.18,3608.36,2024-05-13,Debit Card,Shipped,Lucknow
+ORD01442,CUST0036,Cotton Socks,Clothing,3.0,1970.92,5912.76,2024-08-22,Net Banking,Cancelled,Kolkata
+ORD01497,CUST0254,Men's T-Shirt,Clothing,2.0,1030.13,2060.26,2024-07-31,UPI,Delivered,Pune
+ORD01113,CUST0217,Bluetooth Headphones,Electronics,1.0,1527.77,1527.77,2024-08-30,Debit Card,Shipped,Jaipur
+ORD01692,CUST0142,Winter Jacket,Clothing,2.0,1336.43,2672.86,2024-04-24,UPI,Delivered,Mumbai
+ORD01233,CUST0039,Sports Shorts,Clothing,1.0,1644.58,1644.58,2024-07-29,UPI,Cancelled,Lucknow
+ORD01882,CUST0162,Yoga Mat,Sports,1.0,1471.41,1471.41,2024-04-08,Credit Card,Delivered,Delhi
+ORD01608,CUST0010,Women's Kurta,Clothing,1.0,,491.69,2024-05-22,Credit Card,Delivered,Hyderabad
+ORD01672,CUST0166,Water Purifier,Home & Kitchen,2.0,2747.23,5494.46,2024-05-30,Cash on Delivery,Delivered,Ahmedabad
+ORD01374,CUST0184,Python Programming,Books,2.0,383.14,766.28,2024-11-11,Net Banking,Shipped,Jaipur
+ORD01997,CUST0036,USB-C Hub,Electronics,5.0,3324.17,16620.85,2024-12-13,Cash on Delivery,Delivered,Bengaluru
+ORD01855,CUST0021,USB-C Hub,Electronics,1.0,2784.6,2784.6,2024-02-12,Credit Card,Returned,Jaipur
+ORD01234,CUST0227,Wireless Mouse,Electronics,1.0,1550.1,1550.1,2024-07-15,Cash on Delivery,Delivered,Pune
+ORD01797,CUST0109,Towel Set,Home & Kitchen,3.0,1723.16,5169.48,2024-11-11,UPI,Returned,Pune
+ORD01677,CUST0125,Cycling Gloves,Sports,1.0,1698.89,1698.89,2024-03-30,Credit Card,Delivered,Bengaluru
+ORD01318,CUST0190,Mixer Grinder,Home & Kitchen,2.0,3649.88,7299.76,2024-05-20,Net Banking,Cancelled,Ahmedabad
+ORD01649,CUST0273,Python Programming,beauty,1.0,217.87,217.87,2024-10-02,Credit Card,Delivered,Bengaluru
+ORD01411,CUST0180,Face Moisturizer,Beauty,1.0,1472.83,1472.83,2024-12-26,UPI,Delivered,Jaipur
+ORD01911,CUST0283,Towel Set,Home & Kitchen,2.0,3695.8,7391.6,2024-02-13,Net Banking,Delivered,Pune
+ORD01710,CUST0208,Coffee Maker,Home & Kitchen,2.0,765.8,1531.6,2024-01-08,Credit Card,Delivered,Jaipur
+ORD01359,CUST0058,Towel Set,Home & Kitchen,1.0,4766.67,4766.67,2024-01-28,Net Banking,Delivered,Chennai
+ORD01259,CUST0080,Running Shoes,Clothing,2.0,1811.67,3623.34,2024-06-11,Credit Card,Delivered,Kolkata
+ORD01745,CUST0092,Business Analytics,Books,1.0,578.14,578.14,2024-01-22,UPI,Delivered,Kolkata
+ORD01628,CUST0189,Machine Learning Guide,Books,3.0,433.44,1300.32,2024-02-05,Credit Card,Delivered,Jaipur
+ORD01633,CUST0056,Leadership Mindset,Books,1.0,305.02,305.02,2024-10-03,Debit Card,Returned,Hyderabad
+ORD01283,CUST0062,Webcam HD,Electronics,1.0,6004.96,6004.96,2024-03-31,Cash on Delivery,Returned,Mumbai
+ORD01377,CUST0053,Power Bank 20000mAh,Electronics,4.0,,26899.52,2024-12-26,UPI,Delivered,Pune
+ORD01385,CUST0212,Mechanical Keyboard,Electronics,3.0,3360.29,10080.87,2024-02-28,Credit Card,Shipped,Ahmedabad
+ORD01225,CUST0275,Towel Set,Home & Kitchen,4.0,4005.03,16020.12,2024-01-25,Credit Card,Pending,Mumbai
+ORD01969,CUST0078,Women's Kurta,Clothing,1.0,2197.23,2197.23,2024-05-30,,Delivered,Delhi
+ORD01827,CUST0037,Data Science Handbook,Books,2.0,488.31,976.62,2024-04-19,Debit Card,Delivered,Delhi
+ORD01473,CUST0110,Foundation Liquid,Beauty,1.0,623.1,623.1,2024-10-14,Debit Card,Delivered,Ahmedabad
+ORD01348,CUST0023,Skipping Rope,Sports,1.0,2659.73,2659.73,2024-06-24,Credit Card,Delivered,Bengaluru
+ORD01506,CUST0266,Business Analytics,Books,2.0,747.42,1494.84,2024-10-19,Credit Card,Delivered,Lucknow
+ORD01640,CUST0102,Face Moisturizer,Beauty,1.0,930.32,930.32,2024-03-02,Credit Card,Delivered,Hyderabad
+ORD01221,CUST0056,Eye Liner,Beauty,1.0,649.78,649.78,2024-11-19,UPI,Delivered,Hyderabad
+ORD01798,CUST0136,Business Analytics,Books,1.0,206.96,206.96,2024-04-07,Net Banking,Shipped,Delhi
+ORD01942,CUST0002,Mixer Grinder,Home & Kitchen,2.0,4807.46,9614.92,2024-11-19,UPI,Returned,Ahmedabad
+ORD01918,CUST0237,Air Fryer,Home & Kitchen,4.0,1235.29,4941.16,2024-07-16,Credit Card,Delivered,Hyderabad
+ORD01620,CUST0123,Water Purifier,Home & Kitchen,2.0,4767.3,9534.6,2024-12-28,Credit Card,Shipped,Delhi
+ORD01868,CUST0210,Data Science Handbook,Books,5.0,154.64,773.2,2024-11-22,Credit Card,Delivered,Ahmedabad
+ORD01913,CUST0283,Bluetooth Headphones,Electronics,2.0,4248.5,8497.0,2024-06-30,Credit Card,Delivered,Pune
+ORD01646,CUST0290,Wireless Mouse,Electronics,3.0,5141.91,15425.73,2024-10-03,Credit Card,Pending,Jaipur
+ORD01859,CUST0227,Mixer Grinder,Home & Kitchen,2.0,721.66,1443.32,2024-03-12,Cash on Delivery,Cancelled,Jaipur
+ORD01557,CUST0216,Business Analytics,Books,1.0,363.99,363.99,2024-04-17,UPI,Delivered,Chennai
+ORD01973,CUST0258,Dumbbells 5kg,Sports,2.0,2834.77,5669.54,2024-07-12,Credit Card,Delivered,Lucknow
+ORD01578,CUST0200,Business Analytics,Books,1.0,523.15,523.15,2024-06-08,Net Banking,Delivered,Lucknow
+ORD01796,CUST0107,Non-stick Pan,Home & Kitchen,1.0,2156.19,2156.19,2024-12-01,Debit Card,Delivered,Kolkata
+ORD01086,CUST0291,Yoga Mat,Sports,2.0,0.0,820.24,2024-07-05,Net Banking,Shipped,Jaipur
+ORD01243,CUST0209,,Home & Kitchen,1.0,1757.8,1757.8,2024-05-02,Credit Card,Cancelled,Mumbai
+ORD01699,CUST0209,Eye Liner,Beauty,1.0,1219.83,1219.83,2024-12-23,Credit Card,Delivered,Pune
+ORD01160,CUST0273,Foundation Liquid,Beauty,2.0,1114.03,2228.06,2024-09-02,Net Banking,Delivered,Chennai
+ORD01525,CUST0231,Coffee Maker,Home & Kitchen,2.0,1176.16,2352.32,2024-08-22,Cash on Delivery,Delivered,Jaipur
+ORD01036,CUST0050,Leadership Mindset,Books,1.0,297.0,297.0,2024-10-14,UPI,Shipped,
+ORD01541,CUST0042,Non-stick Pan,Home & Kitchen,2.0,2747.05,5494.1,2024-01-22,Debit Card,Delivered,Chennai
+ORD01171,CUST0103,Eye Liner,Beauty,4.0,702.8,2811.2,2024-04-01,Cash on Delivery,Delivered,Delhi
+ORD01655,CUST0007,Webcam HD,Electronics,3.0,5027.27,15081.81,2024-11-22,Cash on Delivery,Delivered,Lucknow
+ORD01903,CUST0148,Power Bank 20000mAh,Electronics,1.0,4391.16,4391.16,2024-01-22,Debit Card,Delivered,Kolkata
+ORD01870,CUST0165,Wireless Mouse,Electronics,4.0,1455.73,5822.92,2024-04-26,UPI,Delivered,Jaipur
+ORD01860,CUST0143,Mechanical Keyboard,Electronics,4.0,7129.49,28517.96,2024-11-21,Cash on Delivery,Shipped,Hyderabad
+ORD01966,CUST0243,Coffee Maker,Home & Kitchen,2.0,628.26,1256.52,2024-09-25,UPI,Shipped,Ahmedabad
+ORD01734,CUST0099,Water Purifier,Home & Kitchen,2.0,1879.05,3758.1,2024-12-07,Credit Card,Delivered,Pune
+ORD01096,CUST0288,Bedsheet King,Home & Kitchen,1.0,4169.7,4169.7,2024-06-11,Debit Card,Shipped,Delhi
+ORD01564,CUST0004,Dumbbells 5kg,Sports,-2.0,743.24,2229.72,2024-12-10,Cash on Delivery,Pending,Kolkata
+ORD01241,CUST0122,Machine Learning Guide,Books,1.0,606.18,606.18,2024-10-01,UPI,Delivered,Jaipur
+ORD01743,CUST0117,Bedsheet King,Home & Kitchen,1.0,1420.87,1420.87,2024-01-15,UPI,Delivered,Chennai
+ORD01575,CUST0224,Webcam HD,Electronics,3.0,668.6,2005.8,2024-11-23,Debit Card,Delivered,Chennai
+ORD01691,CUST0144,Air Fryer,Home & Kitchen,3.0,1236.51,3709.53,2024-05-28,Debit Card,Pending,Jaipur
+ORD01461,CUST0208,Denim Jeans,Clothing,2.0,2196.99,4393.98,2024-06-21,UPI,Delivered,Ahmedabad
+ORD01554,CUST0213,Mixer Grinder,Home & Kitchen,1.0,1856.22,1856.22,2024-02-25,Cash on Delivery,Delivered,Ahmedabad
+ORD01891,CUST0212,Men's T-Shirt,Clothing,1.0,1034.48,1034.48,2024-01-16,Credit Card,Delivered,Jaipur
+ORD01207,CUST0209,Cotton Socks,Clothing,3.0,1619.93,4859.79,2024-12-27,Cash on Delivery,Delivered,Hyderabad
+ORD01393,CUST0056,Winter Jacket,Clothing,1.0,1595.1,1595.1,2024-08-12,Debit Card,Shipped,Ahmedabad
+ORD01795,CUST0051,Dumbbells 5kg,Sports,1.0,790.99,790.99,2024-11-05,Net Banking,Delivered,Hyderabad
+ORD01398,CUST0103,Women's Kurta,Clothing,3.0,617.12,1851.36,2024-01-28,Debit Card,Delivered,Jaipur
+ORD01767,CUST0130,Skipping Rope,Sports,1.0,2234.78,2234.78,2024-04-02,UPI,Delivered,Ahmedabad
+ORD01747,CUST0008,Denim Jeans,Clothing,2.0,742.89,1485.78,2024-09-13,Debit Card,Pending,Delhi
+ORD01218,CUST0032,Foundation Liquid,Beauty,1.0,591.14,591.14,2024-10-02,Debit Card,Shipped,Bengaluru
+ORD01005,CUST0115,Denim Jeans,Clothing,4.0,369.88,1479.52,2024-10-27,UPI,Delivered,Hyderabad
+ORD01769,CUST0059,USB-C Hub,Electronics,5.0,7035.83,35179.15,2024-07-22,UPI,Shipped,Chennai
+ORD01643,CUST0053,Webcam HD,Electronics,3.0,3621.67,10865.01,2024-08-31,Credit Card,Shipped,Bengaluru
+ORD01910,CUST0160,Water Bottle,Sports,2.0,837.22,1674.44,2024-04-17,Credit Card,Delivered,Kolkata
+ORD01613,CUST0036,Monitor 24-inch,Electronics,2.0,4071.74,8143.48,2024-09-29,Debit Card,Shipped,Chennai
+ORD01739,CUST0145,Bluetooth Headphones,Electronics,2.0,5208.83,10417.66,2024-04-05,Debit Card,Shipped,Lucknow
+ORD01547,CUST0110,Power Bank 20000mAh,Electronics,1.0,5255.54,5255.54,2024-12-28,UPI,,Ahmedabad
+ORD01726,CUST0129,Mixer Grinder,Home & Kitchen,1.0,4458.09,4458.09,2024-08-08,Debit Card,Delivered,Bengaluru
+ORD01684,CUST0167,Laptop Stand,Electronics,3.0,6359.63,19078.89,2024-04-10,Credit Card,Pending,Mumbai
+ORD01099,CUST0300,Winter Jacket,Clothing,1.0,487.89,487.89,2024-09-30,Debit Card,Delivered,Delhi
+ORD01805,CUST0081,Women's Kurta,Clothing,2.0,816.05,1632.1,2024-08-30,Debit Card,Returned,Delhi
+ORD01728,CUST0062,Foundation Liquid,Beauty,1.0,178.03,178.03,2024-10-29,UPI,Delivered,Ahmedabad
+ORD01574,CUST0140,Webcam HD,Electronics,2.0,7492.53,14985.06,2024-10-31,Debit Card,Cancelled,Delhi
+ORD01407,CUST0169,Sunscreen SPF50,Beauty,2.0,750.58,1501.16,2024-07-22,Debit Card,Shipped,Pune
+ORD01503,CUST0218,Dinner Set,Home & Kitchen,2.0,3159.54,6319.08,2024-04-19,UPI,,Ahmedabad
+ORD01048,CUST0186,Wireless Mouse,Electronics,1.0,4479.54,4479.54,2024-06-27,,Pending,Pune
+ORD01033,CUST0053,Denim Jeans,Clothing,2.0,1479.65,2959.3,2024-10-14,Debit Card,Delivered,Jaipur
+ORD01780,CUST0044,USB-C Hub,Electronics,1.0,3623.14,3623.14,2024-09-12,Net Banking,Delivered,Delhi
+ORD01840,CUST0277,,Sports,1.0,2689.36,2689.36,2024-09-07,Credit Card,Delivered,Mumbai
+ORD01201,CUST0068,Business Analytics,Books,1.0,193.66,193.66,2024-12-29,Credit Card,Delivered,Delhi
+ORD01135,CUST0260,Air Fryer,Home & Kitchen,2.0,4913.92,9827.84,2024-05-07,Credit Card,Delivered,Mumbai
+ORD01028,CUST0175,Women's Kurta,Clothing,4.0,1327.62,5310.48,2024-02-07,Debit Card,Delivered,Delhi
+ORD01893,CUST0097,Business Analytics,Books,1.0,700.9,700.9,2024-04-10,Credit Card,Delivered,Mumbai
+ORD01231,CUST0237,Python Programming,Books,1.0,,217.08,2024-06-02,Debit Card,Pending,Bengaluru
+ORD01490,CUST0244,Mechanical Keyboard,Electronics,2.0,2927.61,5855.22,2024-11-02,Credit Card,Delivered,Jaipur
+ORD01773,CUST0038,Mechanical Keyboard,Electronics,1.0,5826.92,5826.92,2024-05-13,Debit Card,Returned,Delhi
+ORD01379,CUST0287,Bedsheet King,Home & Kitchen,1.0,490.98,490.98,2024-05-15,Credit Card,Pending,Bengaluru
+ORD01289,CUST0215,Eye Liner,Beauty,1.0,1161.54,1161.54,2024-08-19,UPI,Delivered,Delhi
+ORD01419,CUST0092,Eye Liner,Beauty,1.0,1026.44,1026.44,2024-02-13,Debit Card,Returned,Chennai
+ORD01675,CUST0143,Towel Set,Home & Kitchen,2.0,2452.63,4905.26,2024-06-05,UPI,,
+ORD01392,CUST0082,Wireless Mouse,Electronics,2.0,,12339.4,2024-12-24,Debit Card,Delivered,Delhi
+ORD01593,CUST0094,Running Shoes,Clothing,4.0,1850.92,7403.68,2024-02-15,Credit Card,Returned,Lucknow
+ORD01499,CUST0125,Leadership Mindset,Books,1.0,400.47,400.47,2024-12-02,UPI,Returned,Chennai
+ORD01139,CUST0102,USB-C Hub,Electronics,5.0,3912.34,19561.7,2024-07-10,UPI,Cancelled,Ahmedabad
+ORD01063,CUST0190,Face Moisturizer,Beauty,3.0,1026.7,3080.1,2024-11-12,UPI,Delivered,Bengaluru
+ORD01472,CUST0227,Machine Learning Guide,Books,2.0,765.52,1531.04,2024-01-05,UPI,Delivered,Ahmedabad
+ORD01648,CUST0178,Yoga Mat,Sports,1.0,,2005.61,2024-08-10,Debit Card,Pending,Hyderabad
+ORD01129,CUST0081,Winter Jacket,Clothing,4.0,,6742.28,2024-02-15,Credit Card,Shipped,Lucknow
+ORD01992,CUST0195,Eye Liner,Beauty,5.0,648.53,3242.65,2024-12-03,Cash on Delivery,Delivered,Bengaluru
+ORD01521,CUST0281,Cotton Socks,Clothing,5.0,1633.0,8165.0,2024-12-21,Debit Card,Cancelled,Mumbai
+ORD01839,CUST0257,Skipping Rope,Sports,,1023.15,1023.15,2024-03-14,UPI,Delivered,Bengaluru
+ORD01978,CUST0270,USB-C Hub,Electronics,3.0,7023.94,21071.82,2024-09-15,Credit Card,Pending,Mumbai
+ORD01065,CUST0108,Machine Learning Guide,Books,1.0,302.1,302.1,2024-08-28,Debit Card,Returned,Chennai
+ORD01813,CUST0148,Leadership Mindset,Books,1.0,323.87,323.87,2024-12-19,UPI,Delivered,Jaipur
+ORD01015,CUST0120,Yoga Mat,Sports,2.0,2089.54,4179.08,2024-11-13,Debit Card,Shipped,Jaipur
+ORD01157,CUST0044,Sunscreen SPF50,Beauty,4.0,1228.09,4912.36,2024-10-14,Cash on Delivery,Delivered,Ahmedabad
+ORD01041,CUST0236,Women's Kurta,Clothing,1.0,993.9,993.9,2024-12-13,Debit Card,Shipped,
+ORD01493,CUST0213,Leadership Mindset,Books,1.0,250.19,250.19,2024-07-28,Credit Card,Delivered,Pune
+ORD01380,CUST0209,Power Bank 20000mAh,Electronics,1.0,5822.67,5822.67,2024-03-19,UPI,Pending,Pune
+ORD01188,CUST0037,Water Purifier,Home & Kitchen,1.0,2451.95,2451.95,2024-01-04,Debit Card,Shipped,Ahmedabad
+ORD01764,CUST0175,Running Shoes,Clothing,1.0,,1580.9,2024-07-07,Cash on Delivery,Delivered,Bengaluru
+ORD01217,CUST0051,Finance Basics,Books,1.0,546.67,546.67,2024-11-11,UPI,Pending,Bengaluru
+ORD01792,CUST0157,Monitor 24-inch,Electronics,2.0,3597.65,7195.3,2024-10-18,Debit Card,Delivered,Hyderabad
+ORD01053,CUST0117,Winter Jacket,Clothing,3.0,376.48,1129.44,2024-02-16,UPI,Delivered,Lucknow
+ORD01879,CUST0019,Eye Liner,Beauty,1.0,191.04,191.04,2024-08-14,Debit Card,Shipped,Mumbai
+ORD01338,CUST0176,Mechanical Keyboard,Electronics,3.0,5833.33,17499.99,2024-07-11,UPI,Shipped,Hyderabad
+ORD01749,CUST0065,Running Shoes,Clothing,2.0,2053.44,4106.88,2024-08-04,Credit Card,Delivered,Chennai
+ORD01720,CUST0282,Bedsheet King,Home & Kitchen,2.0,,3947.32,2024-07-26,Debit Card,Delivered,Kolkata
+ORD01725,CUST0157,Yoga Mat,Sports,1.0,1274.16,1274.16,2024-07-11,Debit Card,Delivered,Kolkata
+ORD01296,CUST0161,Machine Learning Guide,Books,2.0,467.91,935.82,2024-02-16,Debit Card,Delivered,Jaipur
+ORD01702,CUST0124,Eye Liner,Beauty,3.0,871.56,2614.68,2024-02-28,Debit Card,Delivered,Ahmedabad
+ORD01252,CUST0200,Winter Jacket,Clothing,2.0,952.79,1905.58,2024-01-05,Credit Card,Delivered,Pune
+ORD01727,CUST0119,Leadership Mindset,Books,2.0,588.77,1177.54,2024-12-16,UPI,Delivered,Jaipur
+ORD01462,CUST0281,Face Moisturizer,Beauty,1.0,210.76,210.76,2024-06-09,UPI,Shipped,Pune
+ORD01456,CUST0216,Denim Jeans,Clothing,3.0,,7469.37,2024-09-21,UPI,,Jaipur
+ORD01132,CUST0135,Cotton Socks,Clothing,1.0,2245.3,2245.3,2024-09-15,Credit Card,Pending,
+ORD01816,CUST0037,Dumbbells 5kg,Sports,2.0,2239.38,4478.76,2024-09-16,UPI,Delivered,Kolkata
+ORD01863,CUST0224,Machine Learning Guide,Books,3.0,499.79,1499.37,2024-11-28,Debit Card,Cancelled,Delhi
+ORD01270,CUST0300,Coffee Maker,Home & Kitchen,1.0,1614.95,1614.95,2024-04-12,Credit Card,Returned,Jaipur
+ORD01202,CUST0293,USB-C Hub,Electronics,2.0,7474.42,14948.84,2024-09-21,UPI,Delivered,Bengaluru
+ORD01162,CUST0066,Machine Learning Guide,Books,2.0,744.83,1489.66,2024-05-24,Debit Card,Shipped,Ahmedabad
+ORD01556,CUST0106,Running Shoes,Clothing,3.0,2086.61,6259.83,2024-10-08,Credit Card,Delivered,Delhi
+ORD01730,CUST0162,Mechanical Keyboard,Electronics,1.0,3354.3,3354.3,2024-07-01,Debit Card,Shipped,Ahmedabad
+ORD01402,CUST0117,Finance Basics,Books,1.0,630.88,630.88,2024-07-03,UPI,Delivered,Bengaluru
+ORD01703,CUST0244,Face Moisturizer,Beauty,1.0,771.33,771.33,2024-07-04,Net Banking,Cancelled,Bengaluru
+ORD01477,CUST0044,Dinner Set,Home & Kitchen,1.0,391.16,391.16,2024-09-30,Credit Card,Delivered,Mumbai
+ORD01822,CUST0279,Bluetooth Headphones,Electronics,1.0,3449.5,3449.5,2024-11-24,Cash on Delivery,Delivered,Bengaluru
+ORD01772,CUST0252,Bluetooth Headphones,Electronics,1.0,4853.65,4853.65,2024-09-14,Cash on Delivery,Cancelled,
+ORD01106,CUST0261,Resistance Bands,Sports,5.0,1370.78,6853.9,2024-03-22,Cash on Delivery,Shipped,Pune
+ORD01566,CUST0153,Yoga Mat,Sports,1.0,2538.3,2538.3,2024-12-13,UPI,Delivered,Pune
+ORD01390,CUST0128,Wireless Mouse,Electronics,3.0,907.01,2721.03,2024-10-12,UPI,Delivered,Delhi
+ORD01002,CUST0013,Yoga Mat,Sports,1.0,1108.25,1108.25,2024-07-02,Debit Card,Delivered,Pune
+ORD01951,CUST0177,Dumbbells 5kg,Sports,1.0,551.57,551.57,2024-10-08,Credit Card,Delivered,Chennai
+ORD01998,CUST0121,Dumbbells 5kg,Sports,1.0,2846.18,2846.18,2024-09-20,UPI,Returned,Pune
+ORD01562,CUST0195,Sports Shorts,Clothing,1.0,225.98,225.98,2024-05-24,UPI,Delivered,Hyderabad
+ORD01932,CUST0197,Bluetooth Headphones,Electronics,1.0,5052.41,5052.41,2024-03-04,UPI,Delivered,Jaipur
+ORD01081,CUST0162,Mixer Grinder,Home & Kitchen,3.0,1977.78,5933.34,2024-12-01,Credit Card,Pending,Pune
+ORD01206,CUST0243,Power Bank 20000mAh,Electronics,2.0,4457.86,8915.72,2024-11-01,UPI,Delivered,Ahmedabad
+ORD01035,CUST0195,Air Fryer,Home & Kitchen,1.0,3386.66,3386.66,2024-02-25,Net Banking,Delivered,Pune
+ORD01776,CUST0078,Towel Set,Home & Kitchen,1.0,550.14,550.14,2024-04-27,Credit Card,Delivered,Bengaluru
+ORD01509,CUST0286,Python Programming,Books,1.0,536.9,536.9,2024-10-22,Credit Card,Delivered,Ahmedabad
+ORD01428,CUST0262,Sports Shorts,Clothing,1.0,1781.86,1781.86,2024-07-04,Credit Card,Shipped,Delhi
+ORD01455,CUST0099,Foundation Liquid,Beauty,1.0,705.11,705.11,2024-03-15,Debit Card,Delivered,Bengaluru
+ORD01367,CUST0076,Foundation Liquid,Beauty,1.0,1333.95,1333.95,2024-11-07,Credit Card,Returned,Chennai
+ORD01092,CUST0074,Power Bank 20000mAh,Electronics,3.0,7979.47,23938.41,2024-06-12,UPI,Delivered,Pune
+ORD01340,CUST0136,Winter Jacket,Clothing,1.0,1291.11,1291.11,2024-12-21,Debit Card,Shipped,Mumbai
+ORD01898,CUST0027,Webcam HD,Electronics,3.0,7046.39,21139.17,2024-10-26,Credit Card,Delivered,Kolkata
+ORD01565,CUST0181,Towel Set,Home & Kitchen,2.0,1030.32,2060.64,2024-10-01,Debit Card,Pending,Pune
+ORD01346,CUST0217,Bluetooth Headphones,Electronics,1.0,6891.87,6891.87,2024-12-12,Debit Card,Delivered,Pune
+ORD01777,CUST0077,Machine Learning Guide,Books,4.0,225.42,901.68,2024-09-10,Debit Card,Returned,Mumbai
+ORD01242,CUST0086,Sports Shorts,Clothing,1.0,2440.92,2440.92,2024-06-16,UPI,Pending,Ahmedabad
+ORD01014,CUST0112,Wireless Mouse,Electronics,2.0,3910.9,7821.8,2024-12-10,UPI,Pending,Hyderabad
+ORD01316,CUST0036,Laptop Stand,Electronics,2.0,6928.33,13856.66,2024-12-12,Credit Card,Delivered,Chennai
+ORD01601,CUST0173,Business Analytics,Books,2.0,,834.08,2024-07-06,Cash on Delivery,Delivered,Mumbai
+ORD01388,CUST0171,Data Science Handbook,Books,1.0,712.22,712.22,2024-02-23,Debit Card,Shipped,Chennai
+ORD01274,CUST0081,Yoga Mat,Sports,1.0,894.0,894.0,2024-09-30,UPI,Returned,Mumbai
+ORD01167,CUST0271,Denim Jeans,Clothing,2.0,1856.72,3713.44,2024-10-04,Debit Card,Pending,Mumbai
+ORD01841,CUST0253,Hair Serum,Beauty,1.0,773.65,773.65,2024-08-19,UPI,Delivered,Pune
+ORD01222,CUST0128,Wireless Mouse,Electronics,2.0,3521.38,7042.76,2024-12-21,Debit Card,Delivered,Pune
+ORD01647,CUST0022,Mixer Grinder,Home & Kitchen,1.0,549.42,549.42,2024-03-17,Debit Card,Delivered,Kolkata
+ORD01819,CUST0102,Sports Shorts,Clothing,3.0,548.71,1646.13,2024-08-03,Credit Card,Delivered,Chennai
+ORD01485,CUST0102,Men's T-Shirt,Clothing,1.0,584.93,584.93,2024-03-02,UPI,Delivered,Ahmedabad
+ORD01996,CUST0019,Air Fryer,Home & Kitchen,3.0,1285.9,3857.7,2024-04-10,Debit Card,Cancelled,Mumbai
+ORD01505,CUST0091,Skipping Rope,Sports,5.0,218.39,1091.95,2024-04-19,Credit Card,Pending,Pune
+ORD01832,CUST0148,Denim Jeans,Clothing,,1843.01,3686.02,2024-05-06,Debit Card,Delivered,Delhi
+ORD01244,CUST0249,Bluetooth Headphones,Electronics,2.0,2819.68,5639.36,2024-03-30,Credit Card,Delivered,Delhi
+ORD01567,CUST0200,Dinner Set,Home & Kitchen,3.0,4057.82,12173.46,2024-06-30,Cash on Delivery,Delivered,Delhi
+ORD01876,CUST0148,Non-stick Pan,Home & Kitchen,3.0,2555.84,7667.52,2024-10-30,Net Banking,Delivered,Pune
+ORD01563,CUST0245,Dinner Set,Home & Kitchen,1.0,3905.05,3905.05,2024-06-19,Debit Card,Delivered,Pune
+ORD01968,CUST0198,Water Purifier,Home & Kitchen,1.0,0.0,1172.5,2024-04-03,,Cancelled,Chennai
+ORD01687,CUST0109,Winter Jacket,Clothing,3.0,2448.3,7344.9,2024-02-14,UPI,Delivered,Chennai
+ORD01958,CUST0097,Yoga Mat,Sports,1.0,1344.61,1344.61,2024-03-04,Cash on Delivery,Delivered,Ahmedabad
+ORD01190,CUST0118,Dumbbells 5kg,Sports,,1541.23,1541.23,2024-07-22,Credit Card,Shipped,Pune
+ORD01783,CUST0286,Power Bank 20000mAh,Electronics,2.0,2936.87,5873.74,2024-10-18,Credit Card,Delivered,Bengaluru
+ORD01700,CUST0251,Face Moisturizer,Beauty,1.0,291.73,291.73,2024-09-05,Debit Card,Cancelled,Ahmedabad
+ORD01476,CUST0087,Sunscreen SPF50,Beauty,1.0,291.27,291.27,2024-08-21,Debit Card,Shipped,Lucknow
+ORD01682,CUST0015,Machine Learning Guide,Books,1.0,370.14,370.14,2024-09-02,Credit Card,Delivered,Mumbai
+ORD01511,CUST0063,Cycling Gloves,Sports,1.0,2376.77,2376.77,2024-06-05,Credit Card,Delivered,Jaipur
+ORD01059,CUST0143,Mechanical Keyboard,Electronics,2.0,2826.74,5653.48,2024-12-05,Credit Card,Shipped,Ahmedabad
+ORD01475,CUST0243,Foundation Liquid,Beauty,2.0,1230.6,2461.2,2024-05-25,Net Banking,Delivered,Jaipur
+ORD01561,CUST0295,Bluetooth Headphones,Electronics,3.0,3986.64,11959.92,2024-04-16,Cash on Delivery,Delivered,Lucknow
+ORD01857,CUST0241,Winter Jacket,Clothing,1.0,1702.04,1702.04,2024-01-31,Credit Card,Delivered,Kolkata
+ORD01748,CUST0274,Resistance Bands,Sports,3.0,905.06,2715.18,2024-05-01,Credit Card,Pending,Lucknow
+ORD01253,CUST0136,Sports Shorts,Clothing,2.0,1267.03,2534.06,2024-09-09,UPI,Delivered,Chennai
+ORD01022,CUST0113,Denim Jeans,Clothing,1.0,2010.05,2010.05,2024-10-10,UPI,Pending,Chennai
+ORD01314,CUST0068,Coffee Maker,Home & Kitchen,1.0,3501.52,3501.52,2024-09-07,Debit Card,Returned,Lucknow
+ORD01460,CUST0155,Mixer Grinder,Home & Kitchen,2.0,1969.01,3938.02,2024-09-06,Net Banking,Delivered,Kolkata
+ORD01161,CUST0065,Yoga Mat,Sports,1.0,793.06,793.06,2024-03-01,Cash on Delivery,Shipped,Kolkata
+ORD01277,CUST0042,Water Purifier,Home & Kitchen,3.0,4232.48,12697.44,2024-09-09,Debit Card,Delivered,Jaipur
+ORD01956,CUST0234,Cotton Socks,Clothing,1.0,365.46,365.46,2024-08-28,Credit Card,Delivered,Chennai
+ORD01192,CUST0017,Air Fryer,Home & Kitchen,2.0,3504.05,7008.1,2024-08-24,Debit Card,Delivered,Chennai
+ORD01386,CUST0013,Mechanical Keyboard,Electronics,2.0,4357.32,8714.64,2024-09-06,Credit Card,Shipped,Mumbai
+ORD01806,CUST0002,Running Shoes,Clothing,1.0,247.86,247.86,2024-04-08,Debit Card,Delivered,Kolkata
+ORD01414,CUST0275,Cotton Socks,Clothing,1.0,2240.5,2240.5,2024-03-12,Credit Card,Delivered,Kolkata
+ORD01492,CUST0234,Mechanical Keyboard,Electronics,1.0,,6320.12,2024-02-02,Net Banking,Delivered,Jaipur
+ORD01344,CUST0027,Python Programming,Books,2.0,692.9,1385.8,2024-03-17,UPI,Delivered,Delhi
+ORD01770,CUST0034,Business Analytics,Books,2.0,197.49,394.98,2024-01-27,Cash on Delivery,Delivered,Pune
+ORD01309,CUST0038,Winter Jacket,Clothing,3.0,2138.55,6415.65,2024-12-16,Cash on Delivery,Delivered,Delhi
+ORD01662,CUST0079,Power Bank 20000mAh,Clothing ,1.0,3978.2,3978.2,2024-12-26,Credit Card,Cancelled,Ahmedabad
+ORD01131,CUST0002,Mixer Grinder,Home & Kitchen,1.0,4420.69,4420.69,2024-10-17,Credit Card,Returned,Lucknow
+ORD01664,CUST0091,Finance Basics,Books,2.0,764.96,1529.92,2024-04-16,UPI,Delivered,Delhi
+ORD01872,CUST0083,Running Shoes,Clothing,4.0,1674.22,6696.88,2024-01-27,Debit Card,Returned,
+ORD01100,CUST0220,Dumbbells 5kg,Sports,2.0,679.36,1358.72,2024-11-05,Net Banking,Delivered,Pune
+ORD01373,CUST0021,USB-C Hub,Electronics,2.0,7876.49,15752.98,2024-03-15,,Delivered,Mumbai
+ORD01088,CUST0109,Dinner Set,Home & Kitchen,2.0,2099.42,4198.84,2024-11-05,UPI,Returned,Bengaluru
+ORD01459,CUST0292,Running Shoes,Clothing,3.0,478.85,1436.55,2024-11-06,UPI,Shipped,Chennai
+ORD01331,CUST0060,Bluetooth Headphones,Electronics,1.0,535.35,535.35,2024-03-27,UPI,Delivered,Lucknow
+ORD01215,CUST0240,Machine Learning Guide,Books,5.0,505.13,2525.65,2024-02-22,Credit Card,,Chennai
+ORD01467,CUST0221,Denim Jeans,Clothing,3.0,501.94,1505.82,2024-01-15,UPI,Cancelled,Mumbai
+ORD01122,CUST0059,Webcam HD,Electronics,5.0,2186.5,10932.5,2024-06-01,UPI,Shipped,Hyderabad
+ORD01615,CUST0016,Non-stick Pan,Home & Kitchen,2.0,757.61,1515.22,2024-06-30,UPI,Shipped,Ahmedabad
+ORD01021,CUST0215,Power Bank 20000mAh,Electronics,,1187.55,1187.55,2024-11-23,Cash on Delivery,Delivered,Lucknow
+ORD01701,CUST0285,USB-C Hub,Electronics,3.0,4275.37,12826.11,2024-10-13,UPI,Returned,Lucknow
+ORD01072,CUST0237,Webcam HD,Electronics,1.0,2117.41,2117.41,2024-11-07,Debit Card,Pending,Jaipur
+ORD01107,CUST0253,USB-C Hub,Electronics,2.0,4236.99,8473.98,2024-09-12,Debit Card,Delivered,Hyderabad
+ORD01271,CUST0245,Non-stick Pan,Home & Kitchen,3.0,4950.2,14850.6,2024-07-02,Debit Card,Delivered,Kolkata
+ORD01861,CUST0093,Formal Shirt,Clothing,2.0,985.75,1971.5,2024-11-02,Credit Card,Shipped,Pune
+ORD01436,CUST0001,Mixer Grinder,Home & Kitchen,3.0,1215.31,3645.93,2024/15/07,UPI,Shipped,Jaipur
+ORD01103,CUST0186,Business Analytics,Books,2.0,444.8,889.6,2024-03-21,Debit Card,Delivered,Kolkata
