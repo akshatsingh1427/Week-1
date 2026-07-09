@@ -1,32 +1,63 @@
-# Data Science Internship — Week 1 Assignment
+<div align="center">
 
-**Organization:** WeIntern Pvt Ltd  
-**Week:** 1  
-**Focus:** Data Cleaning, Sales Analysis & Visualization  
+# 📊 Data Science Internship — Week 1 Assignment
+
+### Data Cleaning, Sales Analysis & Visualization
+
+<img src="https://img.shields.io/badge/Organization-WeIntern%20Pvt%20Ltd-2563EB?style=for-the-badge">
+<img src="https://img.shields.io/badge/Domain-Data%20Science-EA580C?style=for-the-badge">
+<img src="https://img.shields.io/badge/Focus-EDA%20%26%20Visualization-16A34A?style=for-the-badge">
+<img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge">
+
+**Week 1**
+
+</div>
+
+---
+
+## Table of Contents
+
+- [Objective](#objective)
+- [Dataset Description](#dataset-description)
+- [Tools and Libraries](#tools-and-libraries)
+- [Key Steps Performed](#key-steps-performed)
+- [Major Findings](#major-findings)
+- [Folder Structure](#folder-structure)
+- [Execution Instructions](#execution-instructions)
+- [Author](#author)
 
 ---
 
 ## Objective
 
-Build disciplined habits in data cleaning, structured analysis, exploratory thinking,
-visualization, and professional reporting using a real-world style e-commerce dataset.
+Build disciplined habits in data cleaning, structured analysis, exploratory thinking, visualization, and professional reporting using a real-world style e-commerce dataset.
 
 ---
 
 ## Dataset Description
 
-- **File:** `data/raw/ecommerce_raw.csv`
-- **Rows:** 1,015 (including duplicates and intentional data quality issues)
-- **Columns:** 11
-- **Fields:** Order ID, Customer ID, Product Name, Category, Quantity, Unit Price,
-  Total Amount, Order Date, Payment Mode, Delivery Status, City
-- **Period:** January 2024 – December 2024
-- **Intentional quality issues:** ~140 missing values, 15 duplicate rows, 8 invalid
-  quantities, 5 zero prices, 6 unparseable dates, 8 inconsistent category spellings
+| Attribute | Detail |
+|-----------|--------|
+| **File** | `data/raw/ecommerce_raw.csv` |
+| **Rows** | 1,015 (including duplicates and intentional data quality issues) |
+| **Columns** | 11 |
+| **Fields** | Order ID, Customer ID, Product Name, Category, Quantity, Unit Price, Total Amount, Order Date, Payment Mode, Delivery Status, City |
+| **Period** | January 2024 – December 2024 |
+| **Intentional quality issues** | ~140 missing values, 15 duplicate rows, 8 invalid quantities, 5 zero prices, 6 unparseable dates, 8 inconsistent category spellings |
 
 ---
 
 ## Tools and Libraries
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge">
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge">
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
+
+</div>
 
 | Library | Version | Purpose |
 |---------|---------|---------|
@@ -41,6 +72,7 @@ visualization, and professional reporting using a real-world style e-commerce da
 ## Key Steps Performed
 
 ### Task 1 — Data Cleaning
+
 - Detected and removed 15 fully duplicated rows
 - Dropped 6 rows with unparseable Order Date values
 - Standardised 8 inconsistent Category spellings (e.g. `electronics` → `Electronics`)
@@ -49,9 +81,10 @@ visualization, and professional reporting using a real-world style e-commerce da
 - Filled missing City with `Unknown`, Payment Mode and Delivery Status with column mode
 - Filled missing Product Name with `Unknown Product`
 - Recalculated Total Amount after all numeric corrections
-- Final cleaned dataset: **994 rows, 0 nulls**
+- **Final cleaned dataset: 994 rows, 0 nulls**
 
 ### Task 2 — Sales Analysis
+
 - Computed 7 core KPIs: Total Revenue, Total Orders, AOV, Units Sold, Top Category, Best Product, Repeat Rate
 - Monthly trend analysis with MoM growth calculation
 - Category-wise performance breakdown
@@ -60,6 +93,7 @@ visualization, and professional reporting using a real-world style e-commerce da
 - Delivery status impact on realized revenue
 
 ### Task 3 — Visualizations
+
 - 7 individual charts (bar, line, pie) with full labels and written findings
 - 1 full dashboard mockup (KPI cards + 4 panels)
 - All charts saved to `outputs/charts/` and `outputs/dashboard/`
@@ -72,7 +106,7 @@ visualization, and professional reporting using a real-world style e-commerce da
 2. Sales **peak in the second half of the year** (festive season effect)
 3. **Mumbai, Delhi, Bengaluru** account for ~45% of orders
 4. **~65% of customers are repeat buyers** — retention is the key growth lever
-5. **~15% of orders are cancelled or returned** — logistics/quality risk
+5. **~15% of orders are cancelled or returned** — a logistics/quality risk
 6. **UPI + Credit Card** dominate payments (>55% combined share)
 
 ---
@@ -130,17 +164,15 @@ jupyter notebook
 # Run All Cells (Kernel → Restart & Run All)
 ```
 
-> **Note:** Run all cells from top to bottom in order. The notebook is self-contained —
-> it generates the cleaned dataset and all chart outputs automatically.
+> **Note:** Run all cells from top to bottom in order. The notebook is self-contained — it generates the cleaned dataset and all chart outputs automatically.
 
 ---
 
 ## Author
 
-**Name:** Akshat Singh 
-**Internship:** Data Science — WeIntern Pvt Ltd  
-**Week:** 1  
-**Date:** 8 June 2024  
-
----
-
+| | |
+|---|---|
+| **Name** | Akshat Singh |
+| **Internship** | Data Science — WeIntern Pvt Ltd |
+| **Week** | 1 |
+| **Date** | 8 June 2024 |
